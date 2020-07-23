@@ -1,0 +1,276 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -73.9302420, 40.6964830 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13907068183767058178",
+      "Location" : {
+        "Address" : "717 Bushwick Ave, Brooklyn, NY 11221, United States",
+        "Business Name" : "All Eyes on Egipt Bookstore",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.6964830",
+          "Longitude" : "-73.9302420"
+        }
+      },
+      "Published" : "2020-07-23T19:24:13Z",
+      "Title" : "All Eyes on Egipt Bookstore",
+      "Updated" : "2020-07-23T19:24:13Z",
+      "Title" : "All Eyes on Egipt",
+      "Dates" : "",
+      "Descrip" : "Nuwaubian Nation center in Bushwick, Brooklyn"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -83.5096234, 33.3382748 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=404+Shady+Dale+Rd+NW,+Eatonton,+GA+31024&ftid=0x88f69eb508118dfb:0x6dc4f31aad74255c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.3382748",
+          "Longitude" : "-83.5096234"
+        }
+      },
+      "Published" : "2020-07-23T19:23:47Z",
+      "Title" : "404 Shady Dale Rd NW, Eatonton, GA 31024",
+      "Updated" : "2020-07-23T19:23:47Z",
+      "Title" : "Tama-Re, Nuwabian  Nation",
+      "Dates" : "1993 - 2005",
+      "Descrip" : "Former site of the Pyramids of the Nuwabian Nation"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -73.9934785, 40.7527038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10593514971090779560",
+      "Location" : {
+        "Address" : "481 8th Ave, New York, NY 10001, United States",
+        "Business Name" : "Unification Church of America",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7527038",
+          "Longitude" : "-73.9934785"
+        }
+      },
+      "Published" : "2020-07-23T19:18:30Z",
+      "Title" : "Unification Church of America",
+      "Updated" : "2020-07-23T19:18:30Z",
+      "Title" : "Moonies National Headquarters",
+      "Dates" : "1976 - present",
+      "Descrip" : "The Unification Church of America bought the New Yorker hotel in 1976 and is now the site of their national headquarters."
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.4325078, 34.0938247 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=10050+Cielo+Drive,+10066+Cielo+Dr,+Beverly+Hills,+CA+90210&ftid=0x80c2bc50c1fae52b:0x3508f7fbc75b9d06",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "34.0938247",
+          "Longitude" : "-118.4325078"
+        }
+      },
+      "Published" : "2020-07-23T19:17:38Z",
+      "Title" : "10050 Cielo Drive, 10066 Cielo Dr, Beverly Hills, CA 90210",
+      "Updated" : "2020-07-23T19:17:38Z",
+      "Title" : "Site of murders by the Manson Family",
+      "Dates" : "August 8-9, 1969",
+      "Descrip" : "Rented home of Roman Polanski and Sharon Tate.  Tate and 4 others were killed by the Manson Family."
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -111.8910709, 40.7707425 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10112787064908179005",
+      "Location" : {
+        "Address" : "50 N Temple, Salt Lake City, UT 84150, United States",
+        "Business Name" : "Temple Square",
+        "Geo Coordinates" : {
+          "Latitude" : "40.7707425",
+          "Longitude" : "-111.8910709"
+        }
+      },
+      "Published" : "2020-07-23T19:16:40Z",
+      "Title" : "Temple Square",
+      "Updated" : "2020-07-23T19:16:40Z",
+      "Title" : "Temple Square",
+      "Dates" : "1847 - Present",
+      "Descrip" : "The Headquarters of the LDS Church"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.9881890, 31.5960701 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15125343424997708275",
+      "Location" : {
+        "Address" : "Axtell, TX 76624, United States",
+        "Business Name" : "Branch Davidian Compound",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "31.5960701",
+          "Longitude" : "-96.9881890"
+        }
+      },
+      "Published" : "2020-07-23T19:14:58Z",
+      "Title" : "Branch Davidian Compound",
+      "Updated" : "2020-07-23T19:14:58Z",
+      "Title" : "New Mount Carmel Center",
+      "Dates" : "1958 - April 19, 1993",
+      "Descrip" : "Site of the Branch Davidian Compound, which was mostly destroyed by a fire, ending a 51-day siege by the ATF."
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.6849035, 45.5174002 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8786220690956717109",
+      "Location" : {
+        "Address" : "1115 SW 11th Ave, Portland, OR 97205, United States",
+        "Business Name" : "Hotel Rajneesh",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "45.5174002",
+          "Longitude" : "-122.6849035"
+        }
+      },
+      "Published" : "2020-07-23T19:14:38Z",
+      "Title" : "Hotel Rajneesh",
+      "Updated" : "2020-07-23T19:14:38Z",
+      "Title" : "Hotel Rajneesh",
+      "Dates" : "1923 - Present",
+      "Descrip" : "Owned and operated by the Rajneeshees in the 1980's.  Still in operation today."
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -120.7228172, 44.9106819 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Antelope,+OR+97001&ftid=0x54bc285b8bfee387:0x8cf347e6bdd2e35b",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "44.9106819",
+          "Longitude" : "-120.7228172"
+        }
+      },
+      "Published" : "2020-07-23T19:14:25Z",
+      "Title" : "Antelope, Oregon 97001",
+      "Updated" : "2020-07-23T19:14:25Z",
+      "Title" : "Rajneeshpuram",
+      "Dates" : "1981 - 1988",
+      "Descrip" : "A city incorporated by the Rajneeshees as a settlement for the teachings of Bhagwan Shri Rajneesh"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3181396, 34.1047765 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17302288535931342693",
+      "Location" : {
+        "Address" : "5930 Franklin Ave, Los Angeles, CA 90028, United States",
+        "Business Name" : "Church of Scientology Celebrity Centre International",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1047765",
+          "Longitude" : "-118.3181396"
+        }
+      },
+      "Published" : "2020-07-23T19:13:53Z",
+      "Title" : "Church of Scientology Celebrity Centre International",
+      "Updated" : "2020-07-23T19:13:53Z"
+      ,
+      "Title" : "Scientology Celebrity Centre",
+      "Dates" : "1969 - Present",
+      "Descrip" : "The first Celebrity Centre founded by the Church of Scientology. 'Project Celebrity' was started by L Ron Hubbard in 1955 to recruit celebrities into the church."
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.0619054, 37.4271813 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=NASA+Ames+Research+Center+Boundary,+California+94043&ftid=0x808fb9def6b583ab:0xdc30b2ee14221402",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "37.4271813",
+          "Longitude" : "-122.0619054"
+        }
+      },
+      "Published" : "2020-07-23T19:13:15Z",
+      "Title" : "NASA Ames Research Center Boundary, California 94043",
+      "Updated" : "2020-07-23T19:13:15Z"
+      ,
+      "Title" : "NASA Ames Research Park",
+      "Dates" : "2002 - Present",
+      "Descrip" : "R&D Center for NASA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.6228198, 39.7793872 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=18341+Colina+Fuerte,+Rancho+Santa+Fe,+CA+92091&ftid=0x80dc0a256ee61373:0xa644e50861fb6a35",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "33.0460373",
+          "Longitude" : "-117.2079173"
+        }
+      },
+      "Published" : "2020-07-23T20:49:11Z",
+      "Title" : "18341 Colina Fuerte, Rancho Santa Fe, CA 92091",
+      "Updated" : "2020-07-23T20:49:11Z",
+      "Title" : "The Monastery",
+      "Dates" : "1974 - 1997",
+      "Descrip" : "Site of the mass suicide by Heaven's Gate, a UFO religious group."
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.1713944, 34.2013081 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2924022797936641174",
+      "Location" : {
+        "Address" : "4800 Oak Grove Dr, Pasadena, CA 91109, United States",
+        "Business Name" : "Jet Propulsion Laboratory",
+        "Geo Coordinates" : {
+          "Latitude" : "34.2013081",
+          "Longitude" : "-118.1713944"
+        }
+      },
+      "Published" : "2020-07-23T19:12:01Z",
+      "Title" : "Jet Propulsion Laboratory",
+      "Updated" : "2020-07-23T19:12:01Z",
+      "Title" : "Jet Propulsion Laboratory",
+      "Dates" : "1936 - Present",
+      "Descrip" : "Primary function is the construction and operation of planetary robotic spacecraft.  Also responsible for operating NASA's Deep Space Network."
+    },
+    "type" : "Feature"
+  } ]
+}
