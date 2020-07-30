@@ -16,8 +16,9 @@
       "Published" : "2020-07-12T20:52:31Z",
       "Title" : "35-14 31st St, Astoria, NY 11106",
       "Updated" : "2020-07-12T20:52:31Z",
+      "Cat" : "live",
       "Dates" : "Oct 2008 - Feb 2010",
-      "Descrip" : "After fleeing bedbugs in Harlem, I found a new construction apartment in Astoria with my high-school friend, Emily.  She had just started at NYU in the grad musical theater writing program at Tisch. I was in this apartment until I left to go on tour."
+      "Descrip" : "After fleeing bedbuds in Harlem, I found a new construction apartment in Astoria with my high-school friend, Emily.  She had just started at NYU in the grad musical theater writing program at Tisch. I was in this apartment until I left to go on tour."
     },
     "type" : "Feature"
   }, {
@@ -36,6 +37,7 @@
       "Published" : "2020-07-12T20:51:20Z",
       "Title" : "148 Atlantic Ave, Brooklyn, NY 11201",
       "Updated" : "2020-07-12T20:51:20Z",
+      "Cat" : "live",
       "Dates" : "Jan 2012 - Jan 2016",
       "Descrip" : "This is one of the happiest times in my life.  I was back from tour, loved the neighborhood I was in and was wonrking consistently on Broadway.  Life was in an upswing.  This is the aprtment I was living in when Betsy and I started dating."
     },
@@ -56,6 +58,7 @@
       "Published" : "2020-07-12T20:51:06Z",
       "Title" : "30-70 48th St, Long Island City, NY 11103",
       "Updated" : "2020-07-12T20:51:06Z",
+      "Cat" : "live",
       "Dates" : "Jan 2016 - Feb 2017",
       "Descrip" : "When I left Brooklyn, I moved in with Betsy to her much-larger 1br apartment in Astoria.  We lived together there for a year before buying the condo in Bed-Stuy."
     },
@@ -78,6 +81,7 @@
       "Published" : "2020-07-12T20:50:40Z",
       "Title" : "Third Avenue North",
       "Updated" : "2020-07-12T20:50:40Z",
+      "Cat" : "live",
       "Dates" : "Aug 2004 - May 2005",
       "Descrip" : "My first dorm in NYC, across the street from Webster Hall, we used to watch people stumble out drunk after the shows let out."
     },
@@ -98,6 +102,7 @@
       "Published" : "2020-07-12T20:50:02Z",
       "Title" : "28 Macombs Pl, New York, NY 10039",
       "Updated" : "2020-07-12T20:50:02Z",
+      "Cat" : "live",
       "Dates" : "June 2008 - Sept 2008",
       "Descrip" : "I didn't last long in this apartment.  I spent August in La Jolla, CA, in tech for the first out of town production of Memphis.  When I returned, I found out I'd been burgled.  I was lucky, they only took an Apple computer display, a P-Touch labeler, and a jar of loose change.  They could have totally moved me out of my apartment while I was away.  3 days later I discovered I had bedbugs."
     },
@@ -118,6 +123,7 @@
       "Published" : "2020-07-12T20:48:59Z",
       "Title" : "501 W 43rd St, New York, NY 10036",
       "Updated" : "2020-07-12T20:48:59Z",
+      "Cat" : "live",
       "Dates" : "June 2006 - June 2008",
       "Descrip" : "My first lease in NYC.  Travis, Hannah, and I moved in at the end of our 2nd year at NYU.  I didn't have much experience with living in Midtown and that summer was spent mostly at the bar across the street, Mr. Biggs, which accepted our fake IDs with no questions."
     },
@@ -138,6 +144,7 @@
       "Published" : "2020-07-12T20:48:27Z",
       "Title" : "200 Water St, New York, NY 10038",
       "Updated" : "2020-07-12T20:48:27Z",
+      "Cat" : "live",
       "Dates" : "Aug 2005 - May 2006",
       "Descrip" : "I will never have a view as amazing as this dorm room.  We were in apt #2314: 23rd floor, North-East corner apartment.  The building is on the northern end of the Financial District, so there was a clear view all the way uptown.  We could see the glow of Times Square from the living room."
     },
@@ -158,6 +165,7 @@
       "Published" : "2020-07-12T20:48:14Z",
       "Title" : "443 Bainbridge St, Brooklyn, NY 11233",
       "Updated" : "2020-07-12T20:48:14Z",
+      "Cat" : "live",
       "Dates" : "Feb 2017 - Oct 2019",
       "Descrip" : "The fated condo that Betsy and I purchased.  It was bad news from the word jump.  Construction issues, bad tax paperwork, you name it.  Buying this property was the worst."
     },
