@@ -1,33 +1,32 @@
 {
     "type" : "FeatureCollection",
-    "features" : [
-        {
-            "geometry" : {
-                "coordinates" : [-73.9255395, 40.7565686],
-                "type" : "Point"
+    "features" : [ {
+        "geometry" : {
+            "coordinates" : [-73.9255395, 40.7565686],
+            "type" : "Point"
+        },
+        "properties" : {
+            "Google Maps URL": "http://maps.google.com/?cid=12038819663809634346",
+            "Location" : {
+                "Address" : "35-02 35th St, Astoria, NY 11106, United States",
+                "Business Name": "Sunswick 35/35",
+                "Geo Coordinates" : {
+                    "Latitude" : "40.7565686",
+                    "Longitude" : "-73.9255395"
+                }
             },
-            "properties" : {
-                "Google Maps URL": "http://maps.google.com/?cid=12038819663809634346",
-                "Location" : {
-                    "Address" : "35-02 35th St, Astoria, NY 11106, United States",
-                    "Business Name": "Sunswick 35/35",
-                    "Geo Coordinates" : {
-                        "Latitude" : "40.7565686",
-                        "Longitude" : "-73.9255395"
-                    }
-                },
-                "Published": "2020-07-30T04:50:43Z",
-                "Title": "Sunswick 35/35",
-                "Updated": "2020-07-30T04:50:43Z",
-                "Cat": "play",
-                "Dates": "Oct 2008 - Feb 2010",
-                "DateRange": {
-                    "start": "",
-                    "end": ""
-                },
-                "Photo": "",
-                "Descrip": "Adam Smolenski and I moved into nearly-neighboring apartments in Astoria on the same day and very quickly started drinking here far too often.  It became a central meeting spot for an Astoria contingent of sound folk."
-            }
+            "Published": "2020-07-30T04:50:43Z",
+            "Title": "Sunswick 35/35",
+            "Updated": "2020-07-30T04:50:43Z",
+            "Cat": "play",
+            "Dates": "Oct 2008 - Feb 2010",
+            "DateRange": {
+                "start": "",
+                "end": ""
+            },
+            "Photo": "",
+            "Descrip": "Adam Smolenski and I moved into nearly-neighboring apartments in Astoria on the same day and very quickly started drinking here far too often.  It became a central meeting spot for an Astoria contingent of sound folk."
+        }
         },
         {
             "geometry": {
