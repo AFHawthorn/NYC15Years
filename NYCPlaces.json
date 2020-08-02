@@ -2,7 +2,7 @@
     "features": [
         {
             "geometry": {
-                "coordinates": "[-73.9255395, 40.7565686]",
+                "coordinates": [-73.9255395, 40.7565686],
                 "type": "Point"
             },
             "properties": {
