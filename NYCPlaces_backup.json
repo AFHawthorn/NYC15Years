@@ -1,177 +1,773 @@
 {
-  "type" : "FeatureCollection",
-  "features" : [ {
-    "geometry" : {
-      "coordinates" : [ -73.9290870, 40.7578780 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=35-14+31st+St,+Astoria,+NY+11106&ftid=0x89c25f31e5ece029:0x49eaa65392eb895b",
-      "Location" : {
-        "Geo Coordinates" : {
-          "Latitude" : "40.7578780",
-          "Longitude" : "-73.9290870"
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9255395,
+                    40.7565686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=12038819663809634346",
+                "Location": {
+                    "Address": "35-02 35th St, Astoria, NY 11106, United States",
+                    "Business Name": "Sunswick 35/35",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7565686",
+                        "Longitude": "-73.9255395"
+                    }
+                },
+                "Published": "2020-07-30T04:50:43Z",
+                "Title": "Sunswick 35/35",
+                "Updated": "2020-07-30T04:50:43Z",
+                "Cat": "play",
+                "Dates": "Oct 2008 - Feb 2010",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/Sunswick.jpg",
+                "Descrip": "Adam Smolenski and I moved into nearly-neighboring apartments in Astoria on the same day and very quickly started drinking here far too often.  It became a central meeting spot for an Astoria contingent of sound folk."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9844708,
+                    40.7735199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=12059089796665201392",
+                "Location": {
+                    "Address": "150 W 65th St, New York, NY 10023, United States",
+                    "Business Name": "Vivian Beaumont Theater",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7735199",
+                        "Longitude": "-73.9844708"
+                    }
+                },
+                "Published": "2020-07-30T04:50:18Z",
+                "Title": "Vivian Beaumont Theater",
+                "Updated": "2020-07-30T04:50:18Z",
+                "Cat": "work",
+                "Dates": "Nov 2006 - May 2007",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I assisted Mark Bennett on my first Broadway experience, Tom Stoppard's The Coast of Utopia, here at the Beaumont.  I would walk up 10th ave from my apartment on 43rd street to the theater.  It felt like the beginning of something (and it was.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9936497,
+                    40.7585888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=10309527413032820358",
+                "Location": {
+                    "Address": "416 W 42nd St, New York, NY 10036, United States",
+                    "Business Name": "Playwrights Horizons",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7585888",
+                        "Longitude": "-73.9936497"
+                    }
+                },
+                "Published": "2020-07-30T04:49:41Z",
+                "Title": "Playwrights Horizons",
+                "Updated": "2020-07-30T04:49:41Z",
+                "Cat": "work",
+                "Dates": "Mar 2008 - June 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Much like the Public, I started here crewing shows and ended up designing them.  This Drunken City was one of my early board-op experience (Mar '08) and then I was back co-designing Fly By Night with Ken in May 2014, and designing A Strange Loop in May 2019."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -74.0048398,
+                    40.7251137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=7195695385552310220",
+                "Location": {
+                    "Address": "145 6th Ave, New York, NY 10013, United States",
+                    "Business Name": "HERE",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7251137",
+                        "Longitude": "-74.0048398"
+                    }
+                },
+                "Published": "2020-07-30T04:49:31Z",
+                "Title": "HERE Arts",
+                "Updated": "2020-07-30T04:49:31Z",
+                "Cat": "work",
+                "Dates": "Sep 2007 - Feb 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I've ended up at HERE multiple times, both to see shows and to design them.  My favourite memories are with NAATCO and TRE, making special, weird theater."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9917347,
+                    40.7289834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=16864533380714768756",
+                "Location": {
+                    "Address": "425 Lafayette St, New York, NY 10003, United States",
+                    "Business Name": "The Public Theater",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7289834",
+                        "Longitude": "-73.9917347"
+                    }
+                },
+                "Published": "2020-07-30T04:49:19Z",
+                "Title": "The Public Theater",
+                "Updated": "2020-07-30T04:49:19Z",
+                "Cat": "work",
+                "Dates": "Jan 2005 - Mar 2015",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/ThePublic.jgp",
+                "Descrip": "I don't remember when I started at the Public, but I began as an overhire electrician during my early years at NYU.  I would later come back to design The Great Immensity with The Civilians in April 2014, and would visit Betsy during Hamilton in the winter of 14/15, eating staff-discount dinner in The Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9939123,
+                    40.7294596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=16398661556679876452",
+                "Location": {
+                    "Address": "721 Broadway, New York, NY 10003, United States",
+                    "Business Name": "Tisch School Of The Arts",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7294596",
+                        "Longitude": "-73.9939123"
+                    }
+                },
+                "Published": "2020-07-30T04:48:43Z",
+                "Title": "Tisch School Of The Arts",
+                "Updated": "2020-07-30T04:48:43Z",
+                "Cat": "work",
+                "Dates": "Aug 2004 - July 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "The reason I moved to NYC.  4 years at Tisch studying theater launched me into a career trajectory I couldn't have dreamed of until it was happening.  Lots of theater, lots of all-nighters, lots of struggle, but I wouldn't trade it for the world.  I came back to teach, to attend ITP Camp...this building and I continue to interact."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9876474,
+                    40.757071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=8465735245376630250",
+                "Location": {
+                    "Address": "214 W 43rd St, New York, NY 10036, United States",
+                    "Business Name": "Lyric Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.757071",
+                        "Longitude": "-73.9876474"
+                    }
+                },
+                "Published": "2020-07-30T04:48:16Z",
+                "Title": "Lyric Theatre",
+                "Updated": "2020-07-30T04:48:16Z",
+                "Cat": "work",
+                "Dates": "June 2017 - April 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "My last Broadway show of this 15 year period, I was the US Associate on Harry Potter and it was the most gruelling process I've ever been a part of.  "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.928989,
+                    40.705847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=102+Grattan+St,+Brooklyn,+NY+11237&ftid=0x89c25c0236d254f5:0xc0e098c9f38c1563",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.705847",
+                        "Longitude": "-73.928989"
+                    }
+                },
+                "Published": "2020-07-30T04:47:58Z",
+                "Title": "102 Grattan St, Brooklyn, NY 11237",
+                "Updated": "2020-07-30T04:47:58Z",
+                "Cat": "live",
+                "Dates": "June 2019 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "The second sublet of 2019.  I had windows that got direct sunlight, so that was a change.  I never feel at home in a sublet, they're such transitory spaces.  I could have signed onto the lease here, but by this point, I knew I was moving to LA in October."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9270237,
+                    40.7016679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=5882946137717125788",
+                "Location": {
+                    "Address": "101 Wilson Ave, Brooklyn, NY 11237, United States",
+                    "Business Name": "101 Wilson Bar",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7016679",
+                        "Longitude": "-73.9270237"
+                    }
+                },
+                "Published": "2020-07-30T04:47:08Z",
+                "Title": "101 Wilson Bar",
+                "Updated": "2020-07-30T04:47:08Z",
+                "Cat": "play",
+                "Dates": "Mar 2019 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "A great little skateboarding dive with cheap drinks and beer that usually tasted a little off.  I'd occasionally come here and just read or do work, it was rarely very loud."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9291502,
+                    40.7028639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=8048012461562497450",
+                "Location": {
+                    "Address": "41 Wilson Ave, Brooklyn, NY 11237, United States",
+                    "Business Name": "Yours Sincerely",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7028639",
+                        "Longitude": "-73.9291502"
+                    }
+                },
+                "Published": "2020-07-30T04:46:57Z",
+                "Title": "Yours Sincerely",
+                "Updated": "2020-07-30T04:46:57Z",
+                "Cat": "play",
+                "Dates": "Mar 2019 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "A cocktail bar a few blocks from the sublet(s).  Ridiculously cheap pre-mixed cocktails on\u00c9Wednesday nights?  I was sad and lonely and poor - the target demographic for a Wed night drink special."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9258674,
+                    40.7032206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=1786741309336902771",
+                "Location": {
+                    "Address": "221 Knickerbocker Ave, Brooklyn, NY 11237, United States",
+                    "Business Name": "Mominette Bistro",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7032206",
+                        "Longitude": "-73.9258674"
+                    }
+                },
+                "Published": "2020-07-30T04:46:10Z",
+                "Title": "Mominette Bistro",
+                "Updated": "2020-07-30T04:46:10Z",
+                "Cat": "play",
+                "Dates": "Mar 2019 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "This was around the corner from my sublet.  I used to sit in the corner at the bar and work on sheet music, or just people watch.  They have a great burger.  There was one very nice bartender who used to recognise me, even though I only showed up once a month, maybe."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9259474,
+                    40.7037247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=279+Troutman+St,+Brooklyn,+NY+11237&ftid=0x89c25c036b310d63:0xe7c04f2eae6270c5",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7037247",
+                        "Longitude": "-73.9259474"
+                    }
+                },
+                "Published": "2020-07-30T04:45:56Z",
+                "Title": "279 Troutman St, Brooklyn, NY 11237",
+                "Updated": "2020-07-30T04:45:56Z",
+                "Cat": "live",
+                "Dates": "Mar 2019 - May 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I rented a basement room in a 4br in Bushwick when I got back from LA.  It was the beginning of a very strange summer, full of ups and downs, but mostly, it was the beginning of the end.  I think I knew it, I just wasn't\u00c9looking that far ahead yet.  I thought I had another year in the city, maybe more."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.990372,
+                    40.760706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=6956990512135839752",
+                "Location": {
+                    "Address": "370 W 46th St, New York, NY 10036, United States",
+                    "Business Name": "Deacon Brodie's Tavern",
+                    "Geo Coordinates": {
+                        "Latitude": "40.760706",
+                        "Longitude": "-73.990372"
+                    }
+                },
+                "Published": "2020-07-30T04:44:46Z",
+                "Title": "Deacon Brodie's Tavern",
+                "Updated": "2020-07-30T04:44:46Z",
+                "Cat": "play",
+                "Dates": "Mar 2007 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "One of the mainstays of the midtown theater drinking scene.  A spot where you run into someone you know no matter what hour or what day.  I've seen various bartenders come and go, but Dave and Andy will always be synonymous with this place for me."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.994745,
+                    40.7603296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=2174941348301201266",
+                "Location": {
+                    "Address": "596 10th Ave, New York, NY 10036, United States",
+                    "Business Name": "Mr Biggs Bar & Grill",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7603296",
+                        "Longitude": "-73.994745"
+                    }
+                },
+                "Published": "2020-07-30T04:43:58Z",
+                "Title": "Mr Biggs Bar & Grill",
+                "Updated": "2020-07-30T04:43:58Z",
+                "Cat": "play",
+                "Dates": "June 2006 - June 2008",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "What a dangerous place.  Travis and I drank endlessly the summer of 2006.  My nickname in the bar became \"19 year old boyfriend\" because, well, I was 19 and dating one of the bartenders."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9871606,
+                    40.7580922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=18142548607967022761",
+                "Location": {
+                    "Address": "225 W 44th St, New York, NY 10036, United States",
+                    "Business Name": "Shubert Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7580922",
+                        "Longitude": "-73.9871606"
+                    }
+                },
+                "Published": "2020-07-30T04:43:48Z",
+                "Title": "Shubert Theatre",
+                "Updated": "2020-07-30T04:43:48Z",
+                "Cat": "work",
+                "Dates": "Aug 2009 - Oct 2009",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "This was the site of \"Memphis the Musical\", a show that will always feel like my \"first\" Broadway show - the first one that was truly mine.  I assisted Ken Travis on two out of towns, La Jolla and Seattle, before bringing it to Broadway.  "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9857512,
+                    40.6791727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=15385769806892559860",
+                "Location": {
+                    "Address": "580 Sackett St unit a, Brooklyn, NY 11217, United States",
+                    "Business Name": "MITU580",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6791727",
+                        "Longitude": "-73.9857512"
+                    }
+                },
+                "Published": "2020-07-30T04:43:36Z",
+                "Title": "MITU580",
+                "Updated": "2020-07-30T04:43:36Z",
+                "Cat": "work",
+                "Dates": "Mar 2018 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/Mitu580.jpg",
+                "Descrip": "My artistic heart in NYC, and the home of Theater Mitu.  So many good memories (and long days) in this space.  It's one of my favourite spots in NYC, filled with some of my favourite people."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.929087,
+                    40.757878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=35-14+31st+St,+Astoria,+NY+11106&ftid=0x89c25f31e5ece029:0x49eaa65392eb895b",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.757878",
+                        "Longitude": "-73.929087"
+                    }
+                },
+                "Published": "2020-07-12T20:52:31Z",
+                "Title": "35-14 31st St, Astoria, NY 11106",
+                "Updated": "2020-07-12T20:52:31Z",
+                "Cat": "live",
+                "Dates": "Oct 2008 - Feb 2010",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "After fleeing bedbuds in Harlem, I found a new construction apartment in Astoria with my high-school friend, Emily.  She had just started at NYU in the grad musical theater writing program at Tisch. I was in this apartment until I left to go on tour."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9949285,
+                    40.6901678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=148+Atlantic+Ave,+Brooklyn,+NY+11201&ftid=0x89c25a45804d43f5:0x6919e45a33f35b12",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6901678",
+                        "Longitude": "-73.9949285"
+                    }
+                },
+                "Published": "2020-07-12T20:51:20Z",
+                "Title": "148 Atlantic Ave, Brooklyn, NY 11201",
+                "Updated": "2020-07-12T20:51:20Z",
+                "Cat": "live",
+                "Dates": "Jan 2012 - Jan 2016",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "This is one of the happiest times in my life.  I was back from tour, loved the neighborhood I was in and was wonrking consistently on Broadway.  Life was in an upswing.  This is the aprtment I was living in when Betsy and I started dating."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.910195,
+                    40.759333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=30-70+48th+St,+Long+Island+City,+NY+11103&ftid=0x89c25f1679c3d493:0x2751993e18fed450",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.759333",
+                        "Longitude": "-73.910195"
+                    }
+                },
+                "Published": "2020-07-12T20:51:06Z",
+                "Title": "30-70 48th St, Long Island City, NY 11103",
+                "Updated": "2020-07-12T20:51:06Z",
+                "Cat": "live",
+                "Dates": "Jan 2016 - Feb 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "When I left Brooklyn, I moved in with Betsy to her much-larger 1br apartment in Astoria.  We lived together there for a year before buying the condo in Bed-Stuy."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9878458,
+                    40.7317444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=2851806141662210505",
+                "Location": {
+                    "Address": "75 3rd Ave, New York, NY 10003, United States",
+                    "Business Name": "Third Avenue North",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7317444",
+                        "Longitude": "-73.9878458"
+                    }
+                },
+                "Published": "2020-07-12T20:50:40Z",
+                "Title": "Third Avenue North",
+                "Updated": "2020-07-12T20:50:40Z",
+                "Cat": "live",
+                "Dates": "Aug 2004 - May 2005",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "My first dorm in NYC, across the street from Webster Hall, we used to watch people stumble out drunk after the shows let out."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9387146,
+                    40.8259537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=28+Macombs+Pl,+New+York,+NY+10039&ftid=0x89c2f67fb2797d43:0x5e772a5d2e222c33",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.8259537",
+                        "Longitude": "-73.9387146"
+                    }
+                },
+                "Published": "2020-07-12T20:50:02Z",
+                "Title": "28 Macombs Pl, New York, NY 10039",
+                "Updated": "2020-07-12T20:50:02Z",
+                "Cat": "live",
+                "Dates": "June 2008 - Sept 2008",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I didn't last long in this apartment.  I spent August in La Jolla, CA, in tech for the first out of town production of Memphis.  When I returned, I found out I'd been burgled.  I was lucky, they only took an Apple computer display, a P-Touch labeler, and a jar of loose change.  They could have totally moved me out of my apartment while I was away.  3 days later I discovered I had bedbugs."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.995335,
+                    40.7605555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=501+W+43rd+St,+New+York,+NY+10036&ftid=0x89c2584df2d346f9:0x23102b72e78c0a30",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7605555",
+                        "Longitude": "-73.995335"
+                    }
+                },
+                "Published": "2020-07-12T20:48:59Z",
+                "Title": "501 W 43rd St, New York, NY 10036",
+                "Updated": "2020-07-12T20:48:59Z",
+                "Cat": "live",
+                "Dates": "June 2006 - June 2008",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/501_43rd.jpg",
+                "Descrip": "My first lease in NYC.  Travis, Hannah, and I moved in at the end of our 2nd year at NYU.  I didn't have much experience with living in Midtown and that summer was spent mostly at the bar across the street, Mr. Biggs, which accepted our fake IDs with no questions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -74.0047553,
+                    40.7072637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=200+Water+St,+New+York,+NY+10038&ftid=0x89c25b920e76a3c5:0x18d2108ab75357ac",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7072637",
+                        "Longitude": "-74.0047553"
+                    }
+                },
+                "Published": "2020-07-12T20:48:27Z",
+                "Title": "200 Water St, New York, NY 10038",
+                "Updated": "2020-07-12T20:48:27Z",
+                "Cat": "live",
+                "Dates": "Aug 2005 - May 2006",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/WaterSt.jpg",
+                "Descrip": "I will never have a view as amazing as this dorm room.  We were in apt #2314: 23rd floor, North-East corner apartment.  The building is on the northern end of the Financial District, so there was a clear view all the way uptown.  We could see the glow of Times Square from the living room."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.919037,
+                    40.682569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=443+Bainbridge+St,+Brooklyn,+NY+11233&ftid=0x89c25c6c0e24d199:0x79e4c6bb2b51fd22",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.682569",
+                        "Longitude": "-73.919037"
+                    }
+                },
+                "Published": "2020-07-12T20:48:14Z",
+                "Title": "443 Bainbridge St, Brooklyn, NY 11233",
+                "Updated": "2020-07-12T20:48:14Z",
+                "Cat": "live",
+                "Dates": "Feb 2017 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/443Bainbridge.jpg",
+                "Descrip": "The fated condo that Betsy and I purchased.  It was bad news from the word jump.  Construction issues, bad tax paperwork, you name it.  Buying this property was the worst."
+            }
         }
-      },
-      "Published" : "2020-07-12T20:52:31Z",
-      "Title" : "35-14 31st St, Astoria, NY 11106",
-      "Updated" : "2020-07-12T20:52:31Z",
-      "Cat" : "live",
-      "Dates" : "Oct 2008 - Feb 2010",
-      "Descrip" : "After fleeing bedbuds in Harlem, I found a new construction apartment in Astoria with my high-school friend, Emily.  She had just started at NYU in the grad musical theater writing program at Tisch. I was in this apartment until I left to go on tour."
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -73.9949285, 40.6901678 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=148+Atlantic+Ave,+Brooklyn,+NY+11201&ftid=0x89c25a45804d43f5:0x6919e45a33f35b12",
-      "Location" : {
-        "Geo Coordinates" : {
-          "Latitude" : "40.6901678",
-          "Longitude" : "-73.9949285"
-        }
-      },
-      "Published" : "2020-07-12T20:51:20Z",
-      "Title" : "148 Atlantic Ave, Brooklyn, NY 11201",
-      "Updated" : "2020-07-12T20:51:20Z",
-      "Cat" : "live",
-      "Dates" : "Jan 2012 - Jan 2016",
-      "Photo" : "",
-      "Descrip" : "This is one of the happiest times in my life.  I was back from tour, loved the neighborhood I was in and was working consistently on Broadway.  Life was in an upswing.  This is the apartment I was living in when Betsy and I started dating."
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -73.9101950, 40.7593330 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=30-70+48th+St,+Long+Island+City,+NY+11103&ftid=0x89c25f1679c3d493:0x2751993e18fed450",
-      "Location" : {
-        "Geo Coordinates" : {
-          "Latitude" : "40.7593330",
-          "Longitude" : "-73.9101950"
-        }
-      },
-      "Published" : "2020-07-12T20:51:06Z",
-      "Title" : "30-70 48th St, Long Island City, NY 11103",
-      "Updated" : "2020-07-12T20:51:06Z",
-      "Cat" : "live",
-      "Dates" : "Jan 2016 - Feb 2017",
-      "Descrip" : "When I left Brooklyn, I moved in with Betsy to her much-larger 1br apartment in Astoria.  We lived together there for a year before buying the condo in Bed-Stuy."
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -73.9878458, 40.7317444 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?cid=2851806141662210505",
-      "Location" : {
-        "Address" : "75 3rd Ave, New York, NY 10003, United States",
-        "Business Name" : "Third Avenue North",
-        "Geo Coordinates" : {
-          "Latitude" : "40.7317444",
-          "Longitude" : "-73.9878458"
-        }
-      },
-      "Published" : "2020-07-12T20:50:40Z",
-      "Title" : "Third Avenue North",
-      "Updated" : "2020-07-12T20:50:40Z",
-      "Cat" : "live",
-      "Dates" : "Aug 2004 - May 2005",
-      "Descrip" : "My first dorm in NYC, across the street from Webster Hall, we used to watch people stumble out drunk after the shows let out."
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -73.9387146, 40.8259537 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=28+Macombs+Pl,+New+York,+NY+10039&ftid=0x89c2f67fb2797d43:0x5e772a5d2e222c33",
-      "Location" : {
-        "Geo Coordinates" : {
-          "Latitude" : "40.8259537",
-          "Longitude" : "-73.9387146"
-        }
-      },
-      "Published" : "2020-07-12T20:50:02Z",
-      "Title" : "28 Macombs Pl, New York, NY 10039",
-      "Updated" : "2020-07-12T20:50:02Z",
-      "Cat" : "live",
-      "Dates" : "June 2008 - Sept 2008",
-      "Descrip" : "I didn't last long in this apartment.  I spent August in La Jolla, CA, in tech for the first out of town production of Memphis.  When I returned, I found out I'd been burgled.  I was lucky, they only took an Apple computer display, a P-Touch labeler, and a jar of loose change.  They could have totally moved me out of my apartment while I was away.  3 days later I discovered I had bedbugs."
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -73.9953350, 40.7605555 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=501+W+43rd+St,+New+York,+NY+10036&ftid=0x89c2584df2d346f9:0x23102b72e78c0a30",
-      "Location" : {
-        "Geo Coordinates" : {
-          "Latitude" : "40.7605555",
-          "Longitude" : "-73.9953350"
-        }
-      },
-      "Published" : "2020-07-12T20:48:59Z",
-      "Title" : "501 W 43rd St, New York, NY 10036",
-      "Updated" : "2020-07-12T20:48:59Z",
-      "Cat" : "live",
-      "Dates" : "June 2006 - June 2008",
-      "Descrip" : "My first lease in NYC.  Travis, Hannah, and I moved in at the end of our 2nd year at NYU.  I didn't have much experience with living in Midtown and that summer was spent mostly at the bar across the street, Mr. Biggs, which accepted our fake IDs with no questions."
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -74.0047553, 40.7072637 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=200+Water+St,+New+York,+NY+10038&ftid=0x89c25b920e76a3c5:0x18d2108ab75357ac",
-      "Location" : {
-        "Geo Coordinates" : {
-          "Latitude" : "40.7072637",
-          "Longitude" : "-74.0047553"
-        }
-      },
-      "Published" : "2020-07-12T20:48:27Z",
-      "Title" : "200 Water St, New York, NY 10038",
-      "Updated" : "2020-07-12T20:48:27Z",
-      "Cat" : "live",
-      "Dates" : "Aug 2005 - May 2006",
-      "Photo" : "https://afhawthorn.github.io/NYC15Years/WaterSt.jpg",
-      "Descrip" : "I will never have a view as amazing as this dorm room.  We were in apt #2314: 23rd floor, North-East corner apartment.  The building is on the northern end of the Financial District, so there was a clear view all the way uptown.  We could see the glow of Times Square from the living room."
-    },
-    "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ -73.9190370, 40.6825690 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "Google Maps URL" : "http://maps.google.com/?q=443+Bainbridge+St,+Brooklyn,+NY+11233&ftid=0x89c25c6c0e24d199:0x79e4c6bb2b51fd22",
-      "Location" : {
-        "Geo Coordinates" : {
-          "Latitude" : "40.6825690",
-          "Longitude" : "-73.9190370"
-        }
-      },
-      "Published" : "2020-07-12T20:48:14Z",
-      "Title" : "443 Bainbridge St, Brooklyn, NY 11233",
-      "Updated" : "2020-07-12T20:48:14Z",
-      "Cat" : "live",
-      "Dates" : "Feb 2017 - Oct 2019",
-      "Photo" : "https://afhawthorn.github.io/NYC15Years/443Bainbridge.jpg",
-      "Descrip" : "The fated condo that Betsy and I purchased.  It was bad news from the word jump.  Construction issues, bad tax paperwork, you name it.  Buying this property was the worst."
-    },
-    "type" : "Feature"
-  } ]
+    ]
 }

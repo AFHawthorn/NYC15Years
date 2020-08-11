@@ -120,7 +120,7 @@
                 "Title": "HERE Arts",
                 "Updated": "2020-07-30T04:49:31Z",
                 "Cat": "work",
-                "Dates": "Sep 2007 - Feb 2017",
+                "Dates": "Sept 2007 - Feb 2017",
                 "DateRange": {
                     "start": "",
                     "end": ""
@@ -157,7 +157,7 @@
                     "start": "",
                     "end": ""
                 },
-                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/ThePublic.jgp",
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/ThePublic.jpg",
                 "Descrip": "I don't remember when I started at the Public, but I began as an overhire electrician during my early years at NYU.  I would later come back to design The Great Immensity with The Civilians in April 2014, and would visit Betsy during Hamilton in the winter of 14/15, eating staff-discount dinner in The Library"
             }
         },
@@ -477,7 +477,7 @@
                     "start": "",
                     "end": ""
                 },
-                "Photo": "",
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/Memphis.jpg",
                 "Descrip": "This was the site of \"Memphis the Musical\", a show that will always feel like my \"first\" Broadway show - the first one that was truly mine.  I assisted Ken Travis on two out of towns, La Jolla and Seattle, before bringing it to Broadway.  "
             }
         },
@@ -573,8 +573,8 @@
                     "start": "",
                     "end": ""
                 },
-                "Photo": "",
-                "Descrip": "This is one of the happiest times in my life.  I was back from tour, loved the neighborhood I was in and was wonrking consistently on Broadway.  Life was in an upswing.  This is the aprtment I was living in when Betsy and I started dating."
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/148Atlantic.jpg",
+                "Descrip": "This is one of the happiest times in my life.  I was back from tour, loved the neighborhood I was in and was wonrking consistently on Broadway.  Life was in an upswing.  This is the aprtment I was living in when Betsy and I started dating.  And apparently the only photos I took of it were before I moved in."
             }
         },
         {
@@ -605,7 +605,7 @@
                     "start": "",
                     "end": ""
                 },
-                "Photo": "",
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/AstoriaApt.jpg",
                 "Descrip": "When I left Brooklyn, I moved in with Betsy to her much-larger 1br apartment in Astoria.  We lived together there for a year before buying the condo in Bed-Stuy."
             }
         },
@@ -637,7 +637,7 @@
                     "start": "",
                     "end": ""
                 },
-                "Photo": "",
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/ThirdNorth.jpg",
                 "Descrip": "My first dorm in NYC, across the street from Webster Hall, we used to watch people stumble out drunk after the shows let out."
             }
         },
@@ -767,6 +767,2118 @@
                 },
                 "Photo": "https://afhawthorn.github.io/NYC15Years/photos/443Bainbridge.jpg",
                 "Descrip": "The fated condo that Betsy and I purchased.  It was bad news from the word jump.  Construction issues, bad tax paperwork, you name it.  Buying this property was the worst."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9846212,
+                    40.7197665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=8551191299376648419",
+                "Location": {
+                    "Address": "42 Clinton St, New York, NY 10002, United States",
+                    "Business Name": "The Tailoring Room",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7197665",
+                        "Longitude": "-73.9846212"
+                    }
+                },
+                "Published": "2020-08-03T17:45:07Z",
+                "Title": "The Tailoring Room",
+                "Updated": "2020-08-03T17:45:07Z",
+                "Cat": "other",
+                "Dates": "Jan 2013 - Present",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Frankie has tailored every suit, jacket, and pair of pants I've needed adjusted since my buddy Zac Chandler told me about him.  He and his staff are fast and precise and will do whatever fit you want."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9873361,
+                    40.7197028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=17146112751803020328",
+                "Location": {
+                    "Address": "123 Rivington St, New York, NY 10002, United States",
+                    "Business Name": "Welcome To The Johnsons",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7197028",
+                        "Longitude": "-73.9873361"
+                    }
+                },
+                "Published": "2020-08-03T17:44:23Z",
+                "Title": "Welcome To The Johnsons",
+                "Updated": "2020-08-03T17:44:23Z",
+                "Cat": "play",
+                "Dates": "Oct 2009 - Aug 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "My cousin Daniel was visiting from Toronto, and after many hours of bar-crawling, we ended up here at 2a, drinking PBRs for a couple more hours.  Dan befriended a couple of French Canadians as the bar shut down and we all went to their hotel room to make gin and tonics in plastic cups before sitting out on the steps of Duffy Square at 5:30, chatting in a silent Times Square."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.98715,
+                    40.7289167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=17216930072348499586",
+                "Location": {
+                    "Address": "140 2nd Ave, New York, NY 10003, United States",
+                    "Business Name": "Sly Fox",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7289167",
+                        "Longitude": "-73.98715"
+                    }
+                },
+                "Published": "2020-08-03T17:43:57Z",
+                "Title": "Sly Fox",
+                "Updated": "2020-08-03T17:43:57Z",
+                "Cat": "play",
+                "Dates": "Sept 2004 - June 2005",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "An often-haunt of my Freshman year, and occasionally thereafter.  Interesting beer selection and they served us, that was about as refined as our tastes got in those days."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9881667,
+                    40.7324194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=3498640124507573903",
+                "Location": {
+                    "Address": "98 3rd Ave, New York, NY 10003, United States",
+                    "Business Name": "Bar None",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7324194",
+                        "Longitude": "-73.9881667"
+                    }
+                },
+                "Published": "2020-08-03T17:43:10Z",
+                "Title": "Bar None",
+                "Updated": "2020-08-03T17:43:10Z",
+                "Cat": "play",
+                "Dates": "Sept 2004 - June 2005",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Another usual haunt of Freshman year.  With its proximity to the Third North dorm, they definitely knew who they were serving, but as long as you flashed a semi-respectable fake ID, you weren't bothered.  A little sportsier than I liked my bars, even back then, but it did the trick."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9913488,
+                    40.76657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=10515466664415238132",
+                "Location": {
+                    "Address": "511 W 52nd St, New York, NY 10019, United States",
+                    "Business Name": "MCC Theater",
+                    "Geo Coordinates": {
+                        "Latitude": "40.76657",
+                        "Longitude": "-73.9913488"
+                    }
+                },
+                "Published": "2020-08-03T17:38:30Z",
+                "Title": "MCC Theater",
+                "Updated": "2020-08-03T17:38:30Z",
+                "Cat": "event",
+                "Dates": "May 9, 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "My friend Deanna invited me to a closed workshop presentation of a new musical she was working on about Alexander Hamilton.  She'd said nothing but amazing things, and I knew that a girl I had a crush on, Betsy, was in the workshop.  So I snuck away from Playwrights where I was working on Fly By Night at the time to go and see the first act."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -74.0007959,
+                    40.7634069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=10431909049007621179",
+                "Location": {
+                    "Address": "New York, NY 10036, United States",
+                    "Business Name": "Interactive Fountain",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7634069",
+                        "Longitude": "-74.0007959"
+                    }
+                },
+                "Published": "2020-08-03T17:36:12Z",
+                "Title": "Interactive Fountain",
+                "Updated": "2020-08-03T17:36:12Z",
+                "Cat": "event",
+                "Dates": "June 21, 2009",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/AshFirstNight.jpg",
+                "Descrip": "One of the more amazing first dates in my life.  Ashleigh and I saw Up! On 42nd street, then wandered up 10th Ave to find some food and a beer.  We were wandering around after dinner and found this fountain, and had our first kiss as the fountain went off around us, soaking us.  I would spend the rest of the summer trying to rediscover the magic we'd had that first night.  This photo is from the night we met."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9290779,
+                    40.6822491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=14896772145644447541",
+                "Location": {
+                    "Address": "310 Malcolm X Blvd, Brooklyn, NY 11233, United States",
+                    "Business Name": "Chez Oskar",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6822491",
+                        "Longitude": "-73.9290779"
+                    }
+                },
+                "Published": "2020-08-03T17:35:01Z",
+                "Title": "Chez Oskar",
+                "Updated": "2020-08-03T17:35:01Z",
+                "Cat": "play",
+                "Dates": "Feb 2017 - Dec 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "A great little French bistro-style spot, this is where we'd go for fancy dinners.  The first time Betsy and my parents met, we all went for dinner here."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9172205,
+                    40.6839338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=4153253728185243697",
+                "Location": {
+                    "Address": "83 Saratoga Ave, Brooklyn, NY 11233, United States",
+                    "Business Name": "MacDonough Cafe",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6839338",
+                        "Longitude": "-73.9172205"
+                    }
+                },
+                "Published": "2020-08-03T17:34:15Z",
+                "Title": "MacDonough Cafe",
+                "Updated": "2020-08-03T17:34:15Z",
+                "Cat": "play",
+                "Dates": "Feb 2017 - Dec 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Another local caf\u008e.  Smaller, healthier portions than Butch and Coco\u00c9but sometimes you just want a big greasy breakfast sandwich.  I eventually just started getting my breakfast sandwiches from the deli across from Lady Moo Moo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.920092,
+                    40.6816059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=4000923423856766523",
+                "Location": {
+                    "Address": "365 Chauncey St, Brooklyn, NY 11233, United States",
+                    "Business Name": "Lady Moo Moo",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6816059",
+                        "Longitude": "-73.920092"
+                    }
+                },
+                "Published": "2020-08-03T17:33:44Z",
+                "Title": "Lady Moo Moo",
+                "Updated": "2020-08-03T17:33:44Z",
+                "Cat": "play",
+                "Dates": "May 2017 - Oct 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Home-made ice cream, and it was just around the corner from our apartment.  It was delicious.  They had a honey flavour that was just perfection."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9199088,
+                    40.6833398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=12250894554907857832",
+                "Location": {
+                    "Address": "153 Howard Ave, Brooklyn, NY 11233, United States",
+                    "Business Name": "Butch & Coco",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6833398",
+                        "Longitude": "-73.9199088"
+                    }
+                },
+                "Published": "2020-08-03T17:33:28Z",
+                "Title": "Butch & Coco",
+                "Updated": "2020-08-03T17:33:28Z",
+                "Cat": "play",
+                "Dates": "Feb 2017 - Dec 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Good breakfast sandwiches and hearty, but they weren't particularly fast and the orders were often wrong if you asked to make any changes.  But, good eggs."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.927219,
+                    40.688032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=2411406213211196958",
+                "Location": {
+                    "Address": "108 Patchen Ave, Brooklyn, NY 11221, United States",
+                    "Business Name": "The Wilky",
+                    "Geo Coordinates": {
+                        "Latitude": "40.688032",
+                        "Longitude": "-73.927219"
+                    }
+                },
+                "Published": "2020-08-03T17:33:24Z",
+                "Title": "The Wilky",
+                "Updated": "2020-08-03T17:33:24Z",
+                "Cat": "play",
+                "Dates": "Aug 2017 - Sept 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Betsy was in Richmond, VA performing in a show and had taken Ozzy with her, so I was all alone for a few weeks.  I would often take a book and go have a few afternoon beers at this bar."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -74.003218,
+                    40.7435966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=896988001401816655",
+                "Location": {
+                    "Address": "132 9th Ave, New York, NY 10011, United States",
+                    "Business Name": "Bathtub Gin",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7435966",
+                        "Longitude": "-74.003218"
+                    }
+                },
+                "Published": "2020-08-03T02:50:08Z",
+                "Title": "Bathtub Gin",
+                "Updated": "2020-08-03T02:50:08Z",
+                "Cat": "play",
+                "Dates": "May 2014 - Dec 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Come for the cocktails, stay for the burlesque.  Great little hidden spot that too many people now know about, but it actually has a full-on bathtub in the middle of the back room that performers routinely use.  I think my first visit might have been for a birthday party, but I've ended up here on a few occasions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9944848,
+                    40.7523527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=8636956121051810527",
+                "Location": {
+                    "Address": "312 W 34th St, New York, NY 10001, United States",
+                    "Business Name": "AMC 34th Street 14",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7523527",
+                        "Longitude": "-73.9944848"
+                    }
+                },
+                "Published": "2020-08-03T02:49:38Z",
+                "Title": "AMC 34th Street 14",
+                "Updated": "2020-08-03T02:49:38Z",
+                "Cat": "play",
+                "Dates": "Sept 2004 - June 2007",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Two guys in the year ahead of me, Zac and Zach, would oganise triple-features.  We'd buy a ticket for an 11a showing of a movie, and then jump to a 2p, and then a 5p (or 1p, 4p, 7p - you get the idea). By the third movie, your tongue was sandpaper from the popcorn and your eyeballs were rolling back in your skull.  You couldn't remember the first movie you'd seen, and you were just wandering in a fugue state ready for the day to be over. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9926713,
+                    40.7578929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=568+9th+Ave,+New+York,+NY+10036&ftid=0x89c25852e8f2322f:0xd86153f3135829cc",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7578929",
+                        "Longitude": "-73.9926713"
+                    }
+                },
+                "Published": "2020-08-03T02:48:51Z",
+                "Title": "568 9th Ave, New York, NY 10036",
+                "Updated": "2020-08-03T02:48:51Z",
+                "Cat": "play",
+                "Dates": "Sept 2009 - July 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Empire Coffee, one of the only one-off, independent coffee shops in Midtown.  Their biscotti were great, their dark chocolate covered espresso beans were a staple of every tech I was a part of for 10 years.  They closed during the pandemic in 2020."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9934815,
+                    40.7569564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=1791102614726687178",
+                "Location": {
+                    "Address": "540 9th Ave, New York, NY 10018, United States",
+                    "Business Name": "Tabata Ramen",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7569564",
+                        "Longitude": "-73.9934815"
+                    }
+                },
+                "Published": "2020-08-03T02:47:34Z",
+                "Title": "Tabata Ramen",
+                "Updated": "2020-08-03T02:47:34Z",
+                "Cat": "play",
+                "Dates": "Feb 2012 - July 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I had the pleasure of working on two Disney musicals: Newsies and Aladdin.  Both theaters' stage doors were on 41st street which opened up the door to the dinner options south of 42nd street.  A quick and cheap staple, especially during the winter months, was Tabata Ramen.  A little counter at the front, a few tables at the back, it was a perfect spot for lunch or dinner.  Their wasabi shumai and garlic ramen are both top-notch."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.987937,
+                    40.756174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=5965536692453012904",
+                "Location": {
+                    "Address": "214 W 42nd St, New York, NY 10036, United States",
+                    "Business Name": "New Amsterdam Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.756174",
+                        "Longitude": "-73.987937"
+                    }
+                },
+                "Published": "2020-08-03T02:47:22Z",
+                "Title": "New Amsterdam Theatre",
+                "Updated": "2020-08-03T02:47:22Z",
+                "Cat": "work",
+                "Dates": "Dec 2013 - Mar 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "There are some theaters you assume you will never get to work in, they represent too high an achievement - only the biggest, flashiest shows go in there.  I've had the disctinction of working in two of those theaters:  The Lyric, and the New Amsterdam.  Working in the New Am feels like showing up to a second home.  The crew is exceptionally proud of their work and their space, the Disney offices are right upstairs if you need anything, the house staff are kind and welcoming.  You feel welcome here.  It's truly the crown jewel of Disney Theatricals."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9882829,
+                    40.7554996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=2417800886806509618",
+                "Location": {
+                    "Address": "208 W 41st St, New York, NY 10036, United States",
+                    "Business Name": "Nederlander Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7554996",
+                        "Longitude": "-73.9882829"
+                    }
+                },
+                "Published": "2020-08-03T02:46:58Z",
+                "Title": "Nederlander Theatre",
+                "Updated": "2020-08-03T02:46:58Z",
+                "Cat": "work",
+                "Dates": "Feb 2012 - Mar 2012",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Newsies: A fast process.  The rest of the production was moving from Papermill Playhouse in NJ, but we as a sound design team were new to the production, so we just tried to keep up.  It was supposed to be a 15-week limited run, and ended up running for over a thousand performances.  I used to joke with the A1, Cassy, that it was the longest 15 weeks of her life."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.98232,
+                    40.756047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=740440291736896405",
+                "Location": {
+                    "Address": "59 W 44th St, New York, NY 10036, United States",
+                    "Business Name": "Blue Bar",
+                    "Geo Coordinates": {
+                        "Latitude": "40.756047",
+                        "Longitude": "-73.98232"
+                    }
+                },
+                "Published": "2020-08-03T02:45:07Z",
+                "Title": "Blue Bar",
+                "Updated": "2020-08-03T02:45:07Z",
+                "Cat": "event",
+                "Dates": "July 13, 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Betsy doesn't drink much.  I knew this from the start, and early on in our relationship, I was good at thinking up dates that didn't just involve going to a bar or restaurant.  After seeing Hedwig, we said goodnight to my friend Lauren and her partner and I asked Betsy if she wanted to go for a drink.  It was late, I didn't think she'd say yes, but she did and my heart lept.  I hadn't planned much further than asking her, so it was a quick punt and we found this spot.  It was 11p on a Sunday night and the bar was empty.  She ordered a Guinness and I only became more smitten.  In fact, she stayed for two beers that night and I thought, just maybe, she might like me."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9838861,
+                    40.7566389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=4998994202442720617",
+                "Location": {
+                    "Address": "111 W 44th St, New York, NY 10036, United States",
+                    "Business Name": "Belasco Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7566389",
+                        "Longitude": "-73.9838861"
+                    }
+                },
+                "Published": "2020-08-03T02:44:12Z",
+                "Title": "Belasco Theatre",
+                "Updated": "2020-08-03T02:44:12Z",
+                "Cat": "event",
+                "Dates": "July 13, 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "In my continued attempts to impress Betsy, I got us tickets to see Hedwig on Broadway.  I also got 2 tickets for a friend, so it was a bit of a double-date.  Post-show, my friend and her date headed home, but Betsy, much to my surprise, agreed to get a drink with me."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9910951,
+                    40.76018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=14570004588947357964",
+                "Location": {
+                    "Address": "630 9th Ave, New York, NY 10036, United States",
+                    "Business Name": "5 Napkin Burger Hell's Kitchen",
+                    "Geo Coordinates": {
+                        "Latitude": "40.76018",
+                        "Longitude": "-73.9910951"
+                    }
+                },
+                "Published": "2020-08-03T02:42:47Z",
+                "Title": "5 Napkin Burger Hell's Kitchen",
+                "Updated": "2020-08-03T02:42:47Z",
+                "Cat": "play",
+                "Dates": "Sept 2009 - July 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Possibly my favourite burger in all of NYC (though Minetta Lane Tavern gives it a run) and dangerous to have in the theater district.  This isn't a tech-meal-break burger, this is a take-your-time-and-savour burger.  I was sitting outside at one of their sidewalk tables once on a date and all of a sudden, a hand swooped out from behind me, grabbed my beer, and took a huge gulp.  I was completely surprised, horrified, disgusted (as was my date) and then I looked up and saw Ken Travis grinning back at me.  I was in absolute shock."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -74.0012321,
+                    40.7304057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=9215570050260377357",
+                "Location": {
+                    "Address": "18 Minetta Ln, New York, NY 10012, United States",
+                    "Business Name": "Minetta Lane Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7304057",
+                        "Longitude": "-74.0012321"
+                    }
+                },
+                "Published": "2020-08-03T02:42:34Z",
+                "Title": "Minetta Lane Theatre",
+                "Updated": "2020-08-03T02:42:34Z",
+                "Cat": "work",
+                "Dates": "Aug 2007 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I was the assistant on \"Walmartopia\", the Walmart musical.  The production was plagued by every disaster you can imagine: fire, flood, infestation.  The worst was the tragic death of a performer less than a week after opening.  I returned in October of 2019 to design two shows for Audible Theater, and I hadn't been in the theater in close to 12 years.  It still smelled the same, the layout of the hallways and lobbies came back to me - nothing had changed."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -74.0007016,
+                    40.7299881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=69226281461778318",
+                "Location": {
+                    "Address": "113 MacDougal St, New York, NY 10012, United States",
+                    "Business Name": "Minetta Tavern",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7299881",
+                        "Longitude": "-74.0007016"
+                    }
+                },
+                "Published": "2020-08-03T02:42:29Z",
+                "Title": "Minetta Tavern",
+                "Updated": "2020-08-03T02:42:29Z",
+                "Cat": "play",
+                "Dates": "June 2015 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I wasn't rich enough during Walmartopia to spend $30 on a burger, but I made the journey many years after just for their Black Label burger.  I was able to treat my assistant, Andrew, to burgers here one evening while working on the Audible shows.  It's cramped quarters, but they make a good cocktail and the burger is very nearly worth $30."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9885774,
+                    40.7283732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=17064088389740630568",
+                "Location": {
+                    "Address": "41 E 7th St, New York, NY 10003, United States",
+                    "Business Name": "Burp Castle",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7283732",
+                        "Longitude": "-73.9885774"
+                    }
+                },
+                "Published": "2020-08-03T02:41:58Z",
+                "Title": "Burp Castle",
+                "Updated": "2020-08-03T02:41:58Z",
+                "Cat": "play",
+                "Dates": "Aug 2004 - June 2005",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I still have my NFT (\"Not For Tourists\") guide to NYC from when I moved to NYC for undergrad and it listed a curious little bar called Burp Castle.  Another guidebook described it as a quiet little spot where they played Gregorian chant on the stereo and the bartenders wore monks' habits.  I don't know what tipped us off, but something told us we could probably drink underage here.  None of us had any concept of beer beyond what you drink in high school so we were supremely out of our depths here, but it became a bit of a habit (forgive the pun) to go to the Castle for a beer at the top of the evening before exploring other spots.  The bartenders scowled at us, but we were used to that."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9837917,
+                    40.7153306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=1158337446914845792",
+                "Location": {
+                    "Address": "466 Grand St, New York, NY 10002, United States",
+                    "Business Name": "Abrons Arts Center",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7153306",
+                        "Longitude": "-73.9837917"
+                    }
+                },
+                "Published": "2020-08-03T02:40:56Z",
+                "Title": "Abrons Arts Center",
+                "Updated": "2020-08-03T02:40:56Z",
+                "Cat": "work",
+                "Dates": "Jan 2012 - April 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Abrons came into my life sometime after NYU.  I will most closely link it with the work of The Civilians and Target Margin Theater, but so many wonderful artists have come through these spaces.  It's a quirky spot, with at least 3 performances spaces, tucked away just south of the Williamsburg Bridge."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9885815,
+                    40.7223045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=7917426891771080191",
+                "Location": {
+                    "Address": "196 Allen St, New York, NY 10002, United States",
+                    "Business Name": "Rockwood Music Hall",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7223045",
+                        "Longitude": "-73.9885815"
+                    }
+                },
+                "Published": "2020-08-03T02:40:13Z",
+                "Title": "Rockwood Music Hall",
+                "Updated": "2020-08-03T02:40:13Z",
+                "Cat": "play",
+                "Dates": "Dec 2011 - Dec 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I love Rockwood.  I've seen so many friends play wonderful shows here - Heather Christian, Miko DeLeon, 5J Barrow, Shaina Taub.  The shows are usually free, 1-hour sets, with a two-drink minimum and the vibe is great - super supportive, cozy, but never too loud. One night, I was smitten with a bartender and sat through probably 4 or 5 acts just to keep chatting with her in between sets."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9663528,
+                    40.7128556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=9568200941541195141",
+                "Location": {
+                    "Address": "48 S 4th St, Brooklyn, NY 11211, United States",
+                    "Business Name": "The Woods",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7128556",
+                        "Longitude": "-73.9663528"
+                    }
+                },
+                "Published": "2020-08-03T02:40:04Z",
+                "Title": "The Woods",
+                "Updated": "2020-08-03T02:40:04Z",
+                "Cat": "play",
+                "Dates": "June 2012 - Mar 2013",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I am not one for dance clubs.  I feel very self-conscious when dancing.  But there are a few specific moments in my life where I've enjoyed dancing, and The Woods was generally a place I felt comfortable dancing.  It was way hipper than I ever felt, part of the growing (grown) \"cool Williamsburg\" scene.  But I had a group of friends that would go and dance until 4a often and I would tag along on occasion, and always had a great time."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.8999714,
+                    40.7783003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=6151911818515570847",
+                "Location": {
+                    "Address": "19-02 Steinway St, Astoria, NY 11105, United States",
+                    "Business Name": "IATSE Local 52",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7783003",
+                        "Longitude": "-73.8999714"
+                    }
+                },
+                "Published": "2020-08-03T02:39:20Z",
+                "Title": "IATSE Local 52",
+                "Updated": "2020-08-03T02:39:20Z",
+                "Cat": "work",
+                "Dates": "Dec 2017 - Feb 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "It was a bitterly cold winter, and Harry Potter was rehearsing in a movie studio a 15-minute walk from the last stop on the NQ line at Ditmars.  At the top and tail of the day, they would run shuttles, but I was often showing up at strange times - checking in on load-in at the theater first before going to rehearsal, staying for an hour, back to the theater, etc.  It was so damn cold.  The rehearsal space was pretty incredible, by theater standards, and warm(er than it was outside) which I always appreciated.  And because we were so far from everything, they catered lunch every single day.  Be still my heart."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9093819,
+                    40.7611355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=11733895322283571045",
+                "Location": {
+                    "Address": "4702 30th Ave #1266, Queens, NY 11103, United States",
+                    "Business Name": "Max Bratwurst Und bier",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7611355",
+                        "Longitude": "-73.9093819"
+                    }
+                },
+                "Published": "2020-08-03T02:38:05Z",
+                "Title": "Max Bratwurst Und bier",
+                "Updated": "2020-08-03T02:38:05Z",
+                "Cat": "play",
+                "Dates": "Aug 2014 - Feb 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/maxs.jpg",
+                "Descrip": "I was excited to move in with Betsy but sad to leave Cobble Hill.  Max's went a long long way to make me at home in the new neighborhood.  I love German food and beer, and to have a legit German spot around the corner was fantastic.  It was pretty much the only place I ever wanted to go when we were going out, especially if it was nice out.  Their outdoor dining was perfect - we could bring Ozzy and sit outside drinking beer.  Heaven."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9559552,
+                    40.6815992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=3378559045763256031",
+                "Location": {
+                    "Address": "502 Franklin Ave, Brooklyn, NY 11238, United States",
+                    "Business Name": "Glorietta Baldy",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6815992",
+                        "Longitude": "-73.9559552"
+                    }
+                },
+                "Published": "2020-08-03T02:37:49Z",
+                "Title": "Glorietta Baldy",
+                "Updated": "2020-08-03T02:37:49Z",
+                "Cat": "play",
+                "Dates": "Feb 2018 - April 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Grace and I would meet here for late-night drinks to unwind during Harry Potter.  It was just off her subway stop, though we both got into the habit of biking once the weather started to get warmer.  It's a good bar, though the clientel would occasionally be a little loud and lacking in proprioception, but perhaps that's our fault for not showing up until almost 1am.  Cassy occasionally joined us, too, which was always lovely."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9787857,
+                    40.5726046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=12394068304998442740",
+                "Location": {
+                    "Address": "37 Riegelmann Boardwalk, Brooklyn, NY 11224, United States",
+                    "Business Name": "Coney Island Beach & Boardwalk",
+                    "Geo Coordinates": {
+                        "Latitude": "40.5726046",
+                        "Longitude": "-73.9787857"
+                    }
+                },
+                "Published": "2020-08-03T02:37:00Z",
+                "Title": "Coney Island Beach & Boardwalk",
+                "Updated": "2020-08-03T02:37:00Z",
+                "Cat": "other",
+                "Dates": "Jan 2006 - July 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/Coney.jpg",
+                "Descrip": "I had Photo I at 9am on Wednesdays, Spring semester of Sophomore year.  It was a black and white film class, and I used to walk up from the Financial District to the Village, finishing off whatever roll of film I still had to finish for class.  We took a class trip out to Coney Island while the weather was still cold and the boardwalk and beaches were all empty.  It was my first time visiting Coney Island and it will always hold this magic as being both so quintessentially New York and also so alien to my experience of New York.  A beach?  A boardwalk?  All within reach of a single swipe of a Metrocard?  It was dated, frozen in time.  And, in the winter winds, truly desolate and sad.  I later (much later, 10 years later) visited with Betsy for her birthday.  The weather didn't quite cooperate, she was hoping for a beach day, but we tried to make the most of it anyway.  It's a strange place and, like so much of New York City, refuses to acquiesce to whatever your hopes and dreams for the experience might have been."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.7779546,
+                    40.6455081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=14136002925406239832",
+                "Location": {
+                    "Address": "One Idlewild Drive JFK International Airport, NY 11430, United States",
+                    "Business Name": "TWA Hotel",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6455081",
+                        "Longitude": "-73.7779546"
+                    }
+                },
+                "Published": "2020-08-03T02:36:19Z",
+                "Title": "TWA Hotel",
+                "Updated": "2020-08-03T02:36:19Z",
+                "Cat": "play",
+                "Dates": "June 24, 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/TWA.jpg",
+                "Descrip": "Kate Egan organizes the best get-togethers.  Parties, dive bar crawls, adventures - you name it.  Kate gathered 5 of us to trek out to JFK Airport on a Monday evening to explore the recently-opened TWA hotel next to Terminal 5.  It was one of the best evenings of 2019, just traipsing around this airport hotel, styled meticulously after the 70's, hitting all their bars, including the rooftop pool bar.  Good times and good friends."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9691596,
+                    40.7632227
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=515+Park+Ave,+New+York,+NY+10022&ftid=0x89c258ef88c12829:0xaf232a08498b9b1a",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7632227",
+                        "Longitude": "-73.9691596"
+                    }
+                },
+                "Published": "2020-08-03T02:34:36Z",
+                "Title": "515 Park Ave, New York, NY 10022",
+                "Updated": "2020-08-03T02:34:36Z",
+                "Cat": "event",
+                "Dates": "Nov 7, 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I think I made it until this night before crying on the streets of NYC.  I was in previews for The Mad Ones at 59E59th, it was my birthday, and Betsy had come from Brooklyn to have dinner with me.  The composer then wanted to have a continuity hour with the band, essentially erasing my break.  I was...not happy.  Betsy eventually headed home.  Shortly thereafter, the composer announced he was going to dinner with his family and the band should play through the charts.  I was angry, tired, and frustrated.  I walked out into the rain to find a slice of pizza and managed to get a block or two away from the theater before breaking into tears.  It was the stress of Harry Potter and this show, just wanting to celebrate with Betsy, and feeling stupid for being so upset."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9928339,
+                    40.7625426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=3660332988198873151",
+                "Location": {
+                    "Address": "468 W 47th St, New York, NY 10036, United States",
+                    "Business Name": "Meske",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7625426",
+                        "Longitude": "-73.9928339"
+                    }
+                },
+                "Published": "2020-08-03T02:33:14Z",
+                "Title": "Meske",
+                "Updated": "2020-08-03T02:33:14Z",
+                "Cat": "play",
+                "Dates": "May 2014 - June 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I don't remember exactly when this was, but I was on a date and ordered stuffed jalape\u0096os for an appetiser, which my date very intelligently declined to try.  I took a giant bite of one as she was talking and just began to sweat profusely.  I couldn't concentrate on what she was saying.  She asked if I was OK.  I solidered through, but my tastebuds were shot for the rest of the meal."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9893917,
+                    40.7586817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=17429293413632145064",
+                "Location": {
+                    "Address": "300 W 44th St, New York, NY 10036, United States",
+                    "Business Name": "InterContinental New York Times Square",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7586817",
+                        "Longitude": "-73.9893917"
+                    }
+                },
+                "Published": "2020-08-03T02:32:31Z",
+                "Title": "InterContinental New York Times Square",
+                "Updated": "2020-08-03T02:32:31Z",
+                "Cat": "event",
+                "Dates": "Jan 20, 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "My meeting with Gareth Fry for Harry Potter.  During production, we'd all occasionally come here at the end of the week and have a couple of (hotel-rate) cocktails to unwind."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9859167,
+                    40.7590556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=16900148394816080416",
+                "Location": {
+                    "Address": "205 W 46th St, New York, NY 10036, United States",
+                    "Business Name": "Lunt-Fontanne Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7590556",
+                        "Longitude": "-73.9859167"
+                    }
+                },
+                "Published": "2020-08-03T02:32:08Z",
+                "Title": "Lunt-Fontanne Theatre",
+                "Updated": "2020-08-03T02:32:08Z",
+                "Cat": "work",
+                "Dates": "Sept 2012 - Dec 2012",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "A Christmas Story on Broadway.  We were in the middle of tech when Hurricane Sandy hit NYC and life paused for 3 days.  I would ride my bike to and from the theater and, leaving the theater at midnight wearing a headlamp, it was like entering a post-apocalyptic world below 28th street where the power still hadn't been restored.  I'd then bike through the darkness to the Manhattan bridge where I would return to the land of electricity halfway across the bridge.  Brooklyn still had power and it turns out the bridges are powered half by Manhattan, half by Brooklyn, and the hand-off point is understandably right at the middle."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9862403,
+                    40.7600102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=3538999310630048838",
+                "Location": {
+                    "Address": "243 W 47th St, New York, NY 10036, United States",
+                    "Business Name": "Barrymore Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7600102",
+                        "Longitude": "-73.9862403"
+                    }
+                },
+                "Published": "2020-08-03T02:31:59Z",
+                "Title": "Barrymore Theatre",
+                "Updated": "2020-08-03T02:31:59Z",
+                "Cat": "work",
+                "Dates": "June 2012 - Sept 2012",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Chaplin.  A beautiful little show, really a gem of a show.  But it never got the audiences it needed and closed after a few months. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.986307,
+                    40.759711
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=12067992972290359625",
+                "Location": {
+                    "Address": "228 W 47th St, New York, NY 10036, United States",
+                    "Business Name": "The Rum House",
+                    "Geo Coordinates": {
+                        "Latitude": "40.759711",
+                        "Longitude": "-73.986307"
+                    }
+                },
+                "Published": "2020-08-03T02:31:55Z",
+                "Title": "The Rum House",
+                "Updated": "2020-08-03T02:31:55Z",
+                "Cat": "play",
+                "Dates": "Sept 2012 - June 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I enjoy small, private traditions.  Before any Broadway opening (and as many midtown openings as possible) I have a Manhattan at The Rum House in the Edison Hotel.  My first there was made with Rowan's Creek bourbon.  They don't always have it, but when they do, that's the order.  Whether I'm with folks or just having a moment to reflect before the madness of an opening, it's a Manhattan at The Rum House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9704993,
+                    40.7634421
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=5568255943497352362",
+                "Location": {
+                    "Address": "59 E 59th St, New York, NY 10022, United States",
+                    "Business Name": "59E59 Theaters",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7634421",
+                        "Longitude": "-73.9704993"
+                    }
+                },
+                "Published": "2020-08-03T02:30:44Z",
+                "Title": "59E59 Theaters",
+                "Updated": "2020-08-03T02:30:44Z",
+                "Cat": "work",
+                "Dates": "Oct 2017 - Nov 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "My first, but hopefully not last, time working with Kerrigan and Lowdermilk.  The Mad Ones was also my introduction to Stephen Brackett, with whom I'd later work on A Strange Loop with, and brought me together with Dana Haynes, a close friend and collaborator.  Lots of good people on this one."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9946204,
+                    40.7303633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=4445651852334241413",
+                "Location": {
+                    "Address": "21 Waverly Pl, New York, NY 10003, United States",
+                    "Business Name": "White Oak Tavern",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7303633",
+                        "Longitude": "-73.9946204"
+                    }
+                },
+                "Published": "2020-08-03T02:29:38Z",
+                "Title": "White Oak Tavern",
+                "Updated": "2020-08-03T02:29:38Z",
+                "Cat": "play",
+                "Dates": "Sept 2004 - June 2008",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "This place has been a myriad of restaurants since 2004.  I think it was Caliente Cab Company when I was in undergrad.  Regardless, we would come here for post-show celebrations and such. I remember a few specific evenings: end of first semester of Freshman year, the strike for our production of Full Monty (Nov '05?)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9941202,
+                    40.7301298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=9512621921189381808",
+                "Location": {
+                    "Address": "11 Waverly Pl, New York, NY 10003, United States",
+                    "Business Name": "Josie Woods Pub",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7301298",
+                        "Longitude": "-73.9941202"
+                    }
+                },
+                "Published": "2020-08-03T02:29:33Z",
+                "Title": "Josie Woods Pub",
+                "Updated": "2020-08-03T02:29:33Z",
+                "Cat": "play",
+                "Dates": "Sept 2004 - June 2008",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "We didn't go here often.  It was less friendly to the underage arts school students, more about the locals.  I still feel slightly unwelcome everytime I descend the staircase to the basement bar\u00c9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9975408,
+                    40.7319388
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=19+Washington+Square+N,+New+York,+NY+10011&ftid=0x89c25990d22ae837:0x5aefb95b36f6dfa6",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7319388",
+                        "Longitude": "-73.9975408"
+                    }
+                },
+                "Published": "2020-08-03T02:29:18Z",
+                "Title": "19 Washington Square N, New York, NY 10011",
+                "Updated": "2020-08-03T02:29:18Z",
+                "Cat": "work",
+                "Dates": "Sept 2011 - June 2016",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "The NYC home of NYU Abu Dhabi and the erstwhile defacto home of Theater Mitu - we often had meetings and incubators here.  A beautiful building that was tragically empty at almost all hours."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -74.0030738,
+                    40.7324182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=10051598510294935616",
+                "Location": {
+                    "Address": "27 Barrow St, New York, NY 10014, United States",
+                    "Business Name": "Greenwich House Theater",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7324182",
+                        "Longitude": "-74.0030738"
+                    }
+                },
+                "Published": "2020-08-03T02:29:04Z",
+                "Title": "Greenwich House Theater",
+                "Updated": "2020-08-03T02:29:04Z",
+                "Cat": "work",
+                "Dates": "June, 2007",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "My first musical with Ken Travis was The Civilian's Gone Missing, composed by the late Michael Friedman.  There are still songs in that score that I'll listen to, he was an incredibly talented person.  This was my introduction to musicals, to Michael, and to the Civilians.  I would recoonect with them in 2014 for Gone Missing at The Public, thanks to Ken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -74.0040534,
+                    40.7327893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=14558128611605324611",
+                "Location": {
+                    "Address": "314 Bleecker St, New York, NY 10014, United States",
+                    "Business Name": "A.O.C. L'aile ou la Cuisse",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7327893",
+                        "Longitude": "-74.0040534"
+                    }
+                },
+                "Published": "2020-08-03T02:28:24Z",
+                "Title": "A.O.C. L'aile ou la Cuisse",
+                "Updated": "2020-08-03T02:28:24Z",
+                "Cat": "play",
+                "Dates": "June 2007 - April 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Legit southern French cuisine in NYC.  I was introduced to this spot during Gone Missing, the producer gave us \"10% off\" cards.  Sadly, the food slacked a bit between 2010 and 2014.  Honestly, a lot of food slacked a bit after the 2008 recession.  Unclear what happened here, but it just wasn't quite the same when I last ate there in 2014.  A little saltier (the food and the service)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9931657,
+                    40.7282208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=17111912177289171787",
+                "Location": {
+                    "Address": "400 Lafayette St, New York, NY 10003, United States",
+                    "Business Name": "La Colombe Coffee Roasters",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7282208",
+                        "Longitude": "-73.9931657"
+                    }
+                },
+                "Published": "2020-08-03T02:28:13Z",
+                "Title": "La Colombe Coffee Roasters",
+                "Updated": "2020-08-03T02:28:13Z",
+                "Cat": "play",
+                "Dates": "Mar 2014 - Mar 2015",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I'm pretty sure La Colombe opened after I started working at the Public, but it was definitely well-established by the time I was designing Great Immensity in 2014.  I love this spot.  Open, airy, great pastries.  Usually someone interesting hanging out."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9899129,
+                    40.7262861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=5676947406801506527",
+                "Location": {
+                    "Address": "78-80 E 4th St, New York, NY 10003, United States",
+                    "Business Name": "Stillwater Bar & Grill",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7262861",
+                        "Longitude": "-73.9899129"
+                    }
+                },
+                "Published": "2020-08-03T02:27:30Z",
+                "Title": "Stillwater Bar & Grill",
+                "Updated": "2020-08-03T02:27:30Z",
+                "Cat": "play",
+                "Dates": "Aug 2008 - Aug 2011",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Before Mitu was in residence with NYU Abu Dhabi, Mitu was in residence at NYTW.  Wednesdays were \"Office Hours\" where you could drop by and help with a grant or just catch up and talk about art.  Stillwater across the street was a common meeting spot for dinner or a drink pre-/post-show at NYTW."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9917966,
+                    40.7257471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=11935306748097063741",
+                "Location": {
+                    "Address": "327 Bowery, New York, NY 10003, United States",
+                    "Business Name": "Bowery Electric",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7257471",
+                        "Longitude": "-73.9917966"
+                    }
+                },
+                "Published": "2020-08-03T02:27:07Z",
+                "Title": "Bowery Electric",
+                "Updated": "2020-08-03T02:27:07Z",
+                "Cat": "event",
+                "Dates": "2013",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I can't recall the date, but Alan Hewitt threw an album release for this incredible concept album/cast recording of his musical, LIZZIE, about Lizzie Borden.  I told him, that night, that I wanted to design it when it got to NYC.  It was slated to premiere at Signature Center in NYC in July of 2019, but...never quite made it."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9953688,
+                    40.7250191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=E+Houston+St+%26+Lafayette+St,+New+York,+NY+10012&ftid=0x89c2598f83472387:0x6626557423c40350",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7250191",
+                        "Longitude": "-73.9953688"
+                    }
+                },
+                "Published": "2020-08-03T02:26:47Z",
+                "Title": "E Houston St & Lafayette St, New York, NY 10012",
+                "Updated": "2020-08-03T02:26:47Z",
+                "Cat": "event",
+                "Dates": "April 2006",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I was biking to Tisch from my dorm on Water Street in the financial district as was approaching the intersection from the south.  A bike messenger walked their bike out into the bike lane and, because I had paid $75 for my bike and it didn't have good brakes, I careened into this poor bike messenger so hard that it actually bent the front frame of my bike to the point where the wheel couldn't pass the frame.  I could only bike left from that point on - it was trashed.  The first of, eh, a few bike accidents."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9456901,
+                    40.7767679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=506+E+88th+St,+New+York,+NY+10128&ftid=0x89c258b0f7a124b5:0x8943e1ff5d655571",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7767679",
+                        "Longitude": "-73.9456901"
+                    }
+                },
+                "Published": "2020-08-03T02:22:20Z",
+                "Title": "506 E 88th St, New York, NY 10128",
+                "Updated": "2020-08-03T02:22:20Z",
+                "Cat": "other",
+                "Dates": "July 2009 - Oct 2009",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "This was Ashleigh's apartment.  I would come from Queens, hang out at her place, maybe we'd make dinner or watch a movie, maybe we'd kiss goodbye, and I'd go home.  It was the strangest\u00c9non-relationship I've ever been in.  I'd fallen for her desperately and wanted something to spark there like it had on our first date."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9773209,
+                    40.7849608
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=17269944845262099576",
+                "Location": {
+                    "Address": "450 Amsterdam Ave #2, New York, NY 10024, United States",
+                    "Business Name": "The Dead Poet",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7849608",
+                        "Longitude": "-73.9773209"
+                    }
+                },
+                "Published": "2020-08-03T02:17:33Z",
+                "Title": "The Dead Poet",
+                "Updated": "2020-08-03T02:17:33Z",
+                "Cat": "play",
+                "Dates": "June 2008 - Aug 2008",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "There's a block of bars one chooses from when working at the Delacourte, Jake's Dilemma also rings a bell, but I always loved the Dead Poet.  I had a tee shirt from them for a long time and they had a menu of combo drinks involving Guinness.  The only one I remember is a snake bite - 1/2 Guinness and 1/2 hard cider"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9687629,
+                    40.7801403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=10466603734770026968",
+                "Location": {
+                    "Address": "81 Central Park West, New York, NY 10024, United States",
+                    "Business Name": "Delacorte Theater",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7801403",
+                        "Longitude": "-73.9687629"
+                    }
+                },
+                "Published": "2020-08-03T02:17:21Z",
+                "Title": "Delacorte Theater",
+                "Updated": "2020-08-03T02:17:21Z",
+                "Cat": "work",
+                "Dates": "June 2008 - Aug 2008",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "HAIR in the park.  I've only done one show at the Delacourte, and my memory has done a good job of blotting out the torrential rains but preserved the blissful, perfect summer nights when the show is just electric and everything aligns for a truly spectacular night of theater.  I've seen shows here since and they rarely disappoint.  It's a magical institution and one of the highlights of NYC in the summer."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9866799,
+                    40.7599063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=14112388604702716940",
+                "Location": {
+                    "Address": "252 W 47th St, New York, NY 10036, United States",
+                    "Business Name": "Glass House Tavern",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7599063",
+                        "Longitude": "-73.9866799"
+                    }
+                },
+                "Published": "2020-08-03T02:16:48Z",
+                "Title": "Glass House Tavern",
+                "Updated": "2020-08-03T02:16:48Z",
+                "Cat": "play",
+                "Dates": "Jan 2012 - April 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "A mainstay of the Broadway community, I often find myself here post-show and will see casts and crew from multiple other shows.  It gives a sense of community that can be hard to come by as a transient worker, a chance to run into old friends.  Their truffle risotto balls are no joke, neither are their Manhattans.  I once showed up around 6 or 7 to waste time before a show and was surprised to find out it also had a strong 9-5 business man crowd.  This was also the site of plenty of smaller gatherings for shows: Memphis' two-year party was here, as was Randy Morrison's Irish Wake where I attempted to talk to Betsy for the first time, very unsuccessfully."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.989201,
+                    40.759261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=12424682368918270487",
+                "Location": {
+                    "Address": "302 W 45th St, New York, NY 10036, United States",
+                    "Business Name": "Al Hirschfeld Theatre",
+                    "Geo Coordinates": {
+                        "Latitude": "40.759261",
+                        "Longitude": "-73.989201"
+                    }
+                },
+                "Published": "2020-08-03T02:16:34Z",
+                "Title": "Al Hirschfeld Theatre",
+                "Updated": "2020-08-03T02:16:34Z",
+                "Cat": "work",
+                "Dates": "Feb 2009 - Mar 2009",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "My first Broadway contract was the revival of HAIR.  Sten Severson had brought me on as assistant for the production at the Park summer 2008 and so I was the assistant for the transfer."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.986389,
+                    40.7226196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=9072583953152503764",
+                "Location": {
+                    "Address": "7 Avenue A, New York, NY 10009, United States",
+                    "Business Name": "The Library",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7226196",
+                        "Longitude": "-73.986389"
+                    }
+                },
+                "Published": "2020-08-03T02:16:23Z",
+                "Title": "The Library",
+                "Updated": "2020-08-03T02:16:23Z",
+                "Cat": "play",
+                "Dates": "Mar 2014 - Mar 2015",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "The staff discount made this spot almost affordable.  I would come here after Great Immensity for a drink and would also hang out here waiting for Betsy to finish in Hamilton, eating dinner and reading a book quietly at the bar.  There was usually someone I knew there to say hi to, it gave me a sense of belonging in the theater world.  Like maybe I had a fighting chance at being someone in the industry."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9818262,
+                    40.6793436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=4th+Ave+%26+Douglass+St,+Brooklyn,+NY+11217&ftid=0x89c25bab3ef2574d:0x14dd4522c5e02e01",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6793436",
+                        "Longitude": "-73.9818262"
+                    }
+                },
+                "Published": "2020-08-03T02:15:27Z",
+                "Title": "4th Ave & Douglass St, Brooklyn, NY 11217",
+                "Updated": "2020-08-03T02:15:27Z",
+                "Cat": "event",
+                "Dates": "May 12, 2018",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Was riding my motorcycle home from Mitu when a car coming the opposite way made a left-hand turn into traffic, cutting me off.  I dumped the bike before I hit their Jeep, and was on my feet screaming at them before I knew what had happened.  I still had my helmet on, though, so I imagine they only heard some muffled yelling.  ATGATT.  The bike was totalled and I'd broken a bone in my right hand, but it could have been worse.  I'd hoped after the soul-destroying process that was teching Harry Potter, that I'd have an amazing summer with Mitu.  I did, but it was all in a cast."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9551222,
+                    40.7367778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=15540135510530563327",
+                "Location": {
+                    "Address": "1120 Manhattan Ave, Brooklyn, NY 11222, United States",
+                    "Business Name": "Saint Vitus Bar",
+                    "Geo Coordinates": {
+                        "Latitude": "40.7367778",
+                        "Longitude": "-73.9551222"
+                    }
+                },
+                "Published": "2020-08-03T02:14:53Z",
+                "Title": "Saint Vitus Bar",
+                "Updated": "2020-08-03T02:14:53Z",
+                "Cat": "event",
+                "Dates": "May 3, 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Althea, from Last Exit, and I went to see Against Me! at Webster Hall.  At the end of the set, they announced they'd be playing a late show at St Vitus in Greenpoint.  Althea and I hopped a cab and went straight to this little metal venue at the north end of Brooklyn.  She and I got separated, but I ended up next to a cute tattoo artist named Becca.  We only dated for about a month, we were never destined for greatness, but she's a great artist and a few friends of mine now have pieces from her."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9841508,
+                    40.6640698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=6866924206748510096",
+                "Location": {
+                    "Address": "422 7th Ave, Brooklyn, NY 11215, United States",
+                    "Business Name": "Cafe Steinhof",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6640698",
+                        "Longitude": "-73.9841508"
+                    }
+                },
+                "Published": "2020-08-03T02:14:33Z",
+                "Title": "Cafe Steinhof",
+                "Updated": "2020-08-03T02:14:33Z",
+                "Cat": "play",
+                "Dates": "June 2006 - Aug 2012",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I love German food, and when we couldn't eat another spoonful of the food at the Bandshell, we'd escape for a meal here.  Walter Trarbach was the first to introduce me to this spot."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9766416,
+                    40.6633941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=5693509166109811656",
+                "Location": {
+                    "Address": "141 Prospect Park West, Brooklyn, NY 11215, United States",
+                    "Business Name": "Prospect Park Bandshell",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6633941",
+                        "Longitude": "-73.9766416"
+                    }
+                },
+                "Published": "2020-08-03T02:14:20Z",
+                "Title": "Prospect Park Bandshell",
+                "Updated": "2020-08-03T02:14:20Z",
+                "Cat": "work",
+                "Dates": "June 2006 - Aug 2012",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Ken Travis was the FOH engineer for the summer concert series, Celebrate Brooklyn, and invited me to come out as an apprentice for the summer of '06.  I later returned to mix monitors the summers of '09 and '12.  Apparently I was on the 3 year rotation.  I love the vibe here and still go back to see shows when I can."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9687576,
+                    40.6967903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?q=36+Waverly+Ave,+Brooklyn,+NY+11205&ftid=0x89c25bc6508e4b87:0x95f5f26a72950b13",
+                "Location": {
+                    "Address": "",
+                    "Business Name": "",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6967903",
+                        "Longitude": "-73.9687576"
+                    }
+                },
+                "Published": "2020-08-03T02:13:56Z",
+                "Title": "36 Waverly Ave, Brooklyn, NY 11205",
+                "Updated": "2020-08-03T02:13:56Z",
+                "Cat": "work",
+                "Dates": "June 2019 - Oct 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Dana, a dear friend I met working on The Mad Ones, and I decided to get a studio space together and found these studios that were in the process of being built in the Brooklyn Navy Yards area.  For the few months I was there before moving to LA, it was wonderful to have a space to work any hour of the day, and at (almost) any volume.  It was especially effective to have said space separate from my living situation (which was entirely subletting rooms at this point) and felt like an escape from wherever I was living."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9975036,
+                    40.6961936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=13697143868944734919",
+                "Location": {
+                    "Address": "Montague St &, Pierrepont Pl, Brooklyn, NY 11201, United States",
+                    "Business Name": "Brooklyn Heights Promenade",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6961936",
+                        "Longitude": "-73.9975036"
+                    }
+                },
+                "Published": "2020-08-03T02:12:31Z",
+                "Title": "Brooklyn Heights Promenade",
+                "Updated": "2020-08-03T02:12:31Z",
+                "Cat": "event",
+                "Dates": "July 4th, 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/July4.jpg",
+                "Descrip": "On a whim, I invited Betsy to come to Brooklyn to watch the fireworks, which were to be back in the East River for the first time in years.  She had a matinee and I didn't expect her to say yes, given that she lived in Queens, but to my surprise and delight, she said yes.  It was our first date (so I maintain) and it was wonderful."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9962886,
+                    40.6902937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=12734338467188855434",
+                "Location": {
+                    "Address": "329 Henry St, Brooklyn, NY 11201, United States",
+                    "Business Name": "Henry Public",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6902937",
+                        "Longitude": "-73.9962886"
+                    }
+                },
+                "Published": "2020-08-03T02:12:03Z",
+                "Title": "Henry Public",
+                "Updated": "2020-08-03T02:12:03Z",
+                "Cat": "play",
+                "Dates": "Jan 2012 - Dec 2015",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "I didn't go here often because it was expensive, and often very busy, but on occasion, I would treat myself to their turkey leg sandwich, which was two pieces of white bread piled high with shredded dark turkey leg meat and it was delicious.  It was also exceedingly messy, the white bread always soaked through and gave way before you were finished."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9833963,
+                    40.6805276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=7612976331099324222",
+                "Location": {
+                    "Address": "181 3rd Ave, Brooklyn, NY 11217, United States",
+                    "Business Name": "Fairfield Inn & Suites by Marriott New York Brooklyn",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6805276",
+                        "Longitude": "-73.9833963"
+                    }
+                },
+                "Published": "2020-08-03T02:11:39Z",
+                "Title": "Fairfield Inn & Suites by Marriott New York Brooklyn",
+                "Updated": "2020-08-03T02:11:39Z",
+                "Cat": "event",
+                "Dates": "Nov 17, 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Betsy and I spent one night in this hotel when we'd flown back to NYC from LA to pack up our condo and our lives.  Our last AirBnbers were checking out Monday morning.  It's a strange experience, staying in a hotel in one's own city."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9860167,
+                    40.6779528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=15810733000424926642",
+                "Location": {
+                    "Address": "270 3rd Ave # A, Brooklyn, NY 11215, United States",
+                    "Business Name": "Canal Bar",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6779528",
+                        "Longitude": "-73.9860167"
+                    }
+                },
+                "Published": "2020-08-03T02:11:17Z",
+                "Title": "Canal Bar",
+                "Updated": "2020-08-03T02:11:17Z",
+                "Cat": "play",
+                "Dates": "July 2018 - Sept 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "Althea, an ex-Last-Exit bartender, is one of the managers here, and it's a great dive around the corner from Mitu.  Free popcorn and cheap drinks.  I loved coming here after a workshop or a show for a drink or 3."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9821911,
+                    40.6779845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=1224608413255206868",
+                "Location": {
+                    "Address": "661 Sackett St, Brooklyn, NY 11217, United States",
+                    "Business Name": "The Sackett",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6779845",
+                        "Longitude": "-73.9821911"
+                    }
+                },
+                "Published": "2020-08-03T02:11:13Z",
+                "Title": "The Sackett",
+                "Updated": "2020-08-03T02:11:13Z",
+                "Cat": "play",
+                "Dates": "Aug 2018 - Sept 2019",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "If I was meeting up with anyone after a Mitu show for a drink, we'd come here.  Almost always quiet, my buddy Dan from Last Exit bartended here occasionally. There was an outdoor spot for warm summer nights, and a cosy indoors for all the other times.  One evening, I developed a bit of a talent crush on Molly Webster who had come to see the show."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.977822,
+                    40.68603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=9816897251430959195",
+                "Location": {
+                    "Address": "321 Ashland Pl, Brooklyn, NY 11217, United States",
+                    "Business Name": "BAM Fisher",
+                    "Geo Coordinates": {
+                        "Latitude": "40.68603",
+                        "Longitude": "-73.977822"
+                    }
+                },
+                "Published": "2020-08-03T02:10:48Z",
+                "Title": "BAM Fisher",
+                "Updated": "2020-08-03T02:10:48Z",
+                "Cat": "work",
+                "Dates": "June 2017 - July 2017",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "While BAM has weaved its way in and out of my experience over my time in NYC, as a home for beautiful experimental work from around the world, this specific window of time was my only time working at BAM.  We, Theater Mitu, presented our production of Death of A Salesman here to a sold-out run.  I was, and am always, incredibly proud of the work of this company."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.9957159,
+                    40.6878912
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=15005403716607952811",
+                "Location": {
+                    "Address": "264 Clinton St, Brooklyn, NY 11201, United States",
+                    "Business Name": "Ted & Honey",
+                    "Geo Coordinates": {
+                        "Latitude": "40.6878912",
+                        "Longitude": "-73.9957159"
+                    }
+                },
+                "Published": "2020-08-03T02:08:00Z",
+                "Title": "Ted & Honey",
+                "Updated": "2020-08-03T02:08:00Z",
+                "Cat": "play",
+                "Dates": "Jan 2012 - Nov 2015",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "",
+                "Descrip": "A great spot of coffee and breakfast a couple blocks south of my apartment.  I came home from some gig out of town and it had closed.  First Last Exit, now Ted and Honey.  I'd already made plans to move in with Betsy at the end of the year and this felt like the neighbourhood was telling me it was time to go."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -73.995366,
+                    40.690319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Google Maps URL": "http://maps.google.com/?cid=6884319489533600940",
+                "Location": {
+                    "Address": "136 Atlantic Ave, Brooklyn, NY 11201, United States",
+                    "Business Name": "Last Exit Bar & Lounge",
+                    "Geo Coordinates": {
+                        "Latitude": "40.690319",
+                        "Longitude": "-73.995366"
+                    }
+                },
+                "Published": "2020-08-03T02:07:35Z",
+                "Title": "Last Exit Bar & Lounge",
+                "Updated": "2020-08-03T02:07:35Z",
+                "Cat": "play",
+                "Dates": "Jan 2012 - April 2014",
+                "DateRange": {
+                    "start": "",
+                    "end": ""
+                },
+                "Photo": "https://afhawthorn.github.io/NYC15Years/photos/LastExit.jpg",
+                "Descrip": "My favourite dive bar of all time.  It was only half a block from my little apartment in Cobble Hill, and I would end up there often, befriending all the bartenders, some of whom I still keep in touch with to this day.  A real neighborhood spot amidst a sea of overly-fancy restaurants."
             }
         }
     ]
