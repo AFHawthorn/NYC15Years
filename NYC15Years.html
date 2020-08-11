@@ -1,0 +1,167 @@
+<!--   <!DOCTYPE html>
+  <html>
+  <head>
+    <title>NYC 2004-2019</title>
+  </head>
+ -->  <script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDWfmEuc7Y3x04CGWbFNJsJC2tLJrMj9oY&callback=initMap&libraries=&v=weekly">
+  </script> 
+  <script src="https://unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js">
+  </script>
+
+  <style type="text/css">
+    /* Set the size of the div element that contains the map */
+    #mapcanvas {
+      height: 600px;  /* The height is 600 pixels */
+      width: 100%;  /* The width is the width of the web page */
+     }
+
+    .column {
+      float: left;
+      vertical-align: middle;
+      background: rgba(255,255,255,0.5);
+    }
+
+    .clearfix::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+
+    .photo {
+      width: 30%;
+      vertical-align: middle;
+    }
+
+    .content {
+      width: 70%;
+      color: black;
+    }
+
+  </style>
+<body>
+  <!-- The div element for the map -->
+  <div id="mapcanvas"></div>
+
+  <script> 
+  "use strict";
+
+  var map, bounds;
+
+  var minZoomLevel = 10;
+
+  var NYC_BOUNDS = {
+    north: 41.0,
+    south: 40.5,
+    west: -74.6,
+    east: -73.4
+  };
+
+  var strictBounds = new google.maps.LatLngBounds(
+   new google.maps.LatLng(41, -73.4), 
+   new google.maps.LatLng(40.5, -74.6)
+  );
+
+  function initMap() {
+
+    //Map styling object with an array of styles and the name to be displayed on the map type control
+    var styledMapType = new google.maps.StyledMapType(
+      [
+        {
+          "elementType": 'geometry', 
+          "stylers": [
+            { "saturation": -75 }]
+        },
+        {
+          "featureType": "all",
+          "elementType": "labels.icon",
+          "stylers": [
+            { "saturation": -100 }]
+        }
+      ],
+      {name: 'Styled Map'});
+
+    map = new google.maps.Map(
+        document.getElementById("mapcanvas"), {
+          zoom: 11, 
+          minZoom: 10,
+          maxZoom: 20,
+          center: {lat: 40.74, lng: -73.95},
+          restriction: {
+            latLngBounds: NYC_BOUNDS,
+            strictBounds: false
+          },
+          disableDefaultUI: true,
+          zoomControl: true,
+          fullscreenControl: true,
+          clickableIcons: false,
+          mapTypeControlOptions: {
+            mapTypeIds: ['geometry', 'styled_map']
+          }
+        });
+
+    map.mapTypes.set('styled_map', styledMapType);
+    map.setMapTypeId('styled_map');
+
+    map.data.loadGeoJson('https://afhawthorn.github.io/NYC15Years/NYCPlaces.json');
+
+    map.data.setStyle(function(feature) {
+      var Cat = feature.getProperty('Cat');
+      var customIcons = {
+          live: {
+            icon: "https://afhawthorn.github.io/NYC15Years/icons/blue-dot.png"
+          },
+          work: {
+            icon: "https://afhawthorn.github.io/NYC15Years/icons/green-dot.png"
+          },
+          play: {
+            icon: "https://afhawthorn.github.io/NYC15Years/icons/yellow-dot.png"
+          },
+          event: {
+            icon: "https://afhawthorn.github.io/NYC15Years/icons/red-dot.png"
+          },
+          other: {
+            icon: "https://afhawthorn.github.io/NYC15Years/icons/purple-dot.png"
+          }
+        };
+      var icons = customIcons[Cat];
+      return {
+        icon: {url: icons.icon},
+        visible: true,
+        clickable: true,
+        opacity: 0.75
+      };
+    });
+
+    // var markerCluster = new MarkerClusterer(map, markers, {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+
+    var infowindow = new google.maps.InfoWindow();
+
+    map.data.addListener('click', function(event) {
+      let title = event.feature.getProperty('Title');
+      let dates = event.feature.getProperty('Dates');
+      let descrip = event.feature.getProperty('Descrip');
+      let pic = event.feature.getProperty('Photo');
+      if(pic === ''){
+        var placeInfo = '<div id="content" style="color: black"><div id="siteNotice"></div><strong>' + 
+        title + '</strong><br><br>' + dates + '<br><br>' + descrip + '</div>';
+      } else if (pic == null) {
+        var placeInfo = '<div id="content" style="color: black"><div id="siteNotice"></div><strong>' + 
+        title + '</strong><br><br>' + dates + '<br><br>' + descrip + '</div>';
+      } else {
+        var placeInfo = '<div class="column photo"><img src="' + pic + '" width="160"/></div>'+
+        '<div id="content"  style="color: black"><strong>' + title + '</strong>' + 
+        '<br><br>' + dates + '<br><br>' + descrip + '</div>';
+      }
+      infowindow.setContent(placeInfo); // show the placeInfo variable in the infowindow
+      infowindow.setPosition(event.latLng);
+      infowindow.setOptions({
+        pixelOffset: new google.maps.Size(0, -20) // move the infowindow up slightly to the top of the marker icon
+      });
+      infowindow.open(map);
+    });
+  }
+  
+  </script>
+</body>
+<!-- </html> -->
