@@ -58,6 +58,7 @@
                 "Cat": "event",
                 "Dates": "Nov 7, 2017",
                 "DateStart": 1,
+                "DateEnd": 3,
                 "DateRange": {
                     "start": 1,
                     "end": 2
