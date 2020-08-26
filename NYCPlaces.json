@@ -57,6 +57,7 @@
                 "Updated": "2020-08-03T02:34:36Z",
                 "Cat": "event",
                 "Dates": "Nov 7, 2017",
+                "DateStart": 1,
                 "DateRange": {
                     "start": 1,
                     "end": 2
